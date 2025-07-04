@@ -1,0 +1,172 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RlVk7Q33AdOpRqrtUGp2udeOHkzXcihixyUCnqWIhtRp4GXt6UCGdQes8FCtGFBn
+ wCVxSnhZQnCOz5kOw/qTDg==
+
+<SEC-DOCUMENT>0000919574-10-004879.txt : 20100816
+<SEC-HEADER>0000919574-10-004879.hdr.sgml : 20100816
+<ACCEPTANCE-DATETIME>20100816162018
+ACCESSION NUMBER:		0000919574-10-004879
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100630
+FILED AS OF DATE:		20100816
+DATE AS OF CHANGE:		20100816
+EFFECTIVENESS DATE:		20100816
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER GLOBAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		101019992
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129848847
+
+	MAIL ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGER TECHNOLOGY MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20020214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1123849_13f-hr.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: June 30, 2010
+
+Check here if Amendment             |_|; Amendment Number:
+This amendment (Check only one.):   |_| is a restatement.
+                                    |_| adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:       Tiger Global Management, L.L.C.
+Address:    101 Park Avenue, 48th Floor
+            New York, NY 10178
+
+13 File Number: 28-10100
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct, and
+complete, and and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:       Charles P. Coleman III
+Title:      Managing Member
+Phone:      212-984-2500
+
+Signature, Place and Date of Signing:
+
+Charles P. Coleman III           New York, NY                    August 16, 2010
+- ----------------------         ------------------               ---------------
+[Signature]                      [City, State]                       [Date]
+<PAGE>
+
+Report Type (Check only one.):
+[X]      13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[ ]      13F NOTICE.  (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[ ]      13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:        0
+
+Form 13F Information Table Entry Total:   32
+
+Form 13F Information Table Value Total:   $3,395,046
+                                          (thousands)
+<PAGE>
+
+<TABLE>
+
+                                                     FORM 13F INFORMATION TABLE
+<CAPTION>
+COLUMN 1                         COLUMN  2    COLUMN 3    COLUMN 4        COLUMN 5     COLUMN 6   COL 7        COLUMN 8
+
+                                                          VALUE    SHRS OR  SH/ PUT/  INVESTMENT  OTHER   VOTING AUTHORITY
+NAME OF ISSUER                TITLE OF CLASS   CUSIP      (x1000)  PRN AMT  PRN CALL  DISCRETION  MNGRS  SOLE     SHARED   NONE
+- --------------                --------------   -----      -------  -------  --- ----  ----------  -----  ----     ------   ----
+<S>                           <C>             <C>         <C>      <C>      <C> <C>   <C>         <C>    <C>       <C>      <C>
+AMERICAN TOWER CORP           CL A            029912201    44723    1005000 SH        SOLE        NONE    1005000   0       0
+APOLLO GROUP INC              CL A            037604105   277414    6532000 SH        SOLE        NONE    6532000   0       0
+APOLLO GROUP INC              CL A            037604905   143820    3386400     CALL  SOLE        NONE    3386400   0       0
+APPLE INC                     COM             037833100   261944    1041404 SH        SOLE        NONE    1041404   0       0
+CABLEVISION SYS CORP          CL A NY CABLVS  12686C109   147790    6155372 SH        SOLE        NONE    6155372   0       0
+COMMSCOPE INC                 COM             203372107    34521    1452295 SH        SOLE        NONE    1452295   0       0
+COMPANIA CERVECERIAS UNIDAS   SPONSORED ADR   204429104    19969     463423 SH        SOLE        NONE     463423   0       0
+DIRECTV                       COM CL A        25490A101   253854    7483900 SH        SOLE        NONE    7483900   0       0
+DISCOVERY COMMUNICATNS NEW    COM SER C       25470F302   124076    4011499 SH        SOLE        NONE    4011499   0       0
+DOMINOS PIZZA INC             COM             25754A201     5089     450326 SH        SOLE        NONE     450326   0       0
+DUOYUAN GLOBAL WTR INC        SPONSORED ADR   266043108    15312     870000 SH        SOLE        NONE     870000   0       0
+ELECTRONIC ARTS INC           COM             285512109   115200    8000000 SH        SOLE        NONE    8000000   0       0
+ELECTRONIC ARTS INC           COM             285512909    87840    6100000     CALL  SOLE        NONE    6100000   0       0
+GENPACT LIMITED               SHS             G3922B107    39830    2564696 SH        SOLE        NONE    2564696   0       0
+HARBIN ELECTRIC INC           COM             41145W109    19689    1182500 SH        SOLE        NONE    1182500   0       0
+IAC INTERACTIVECORP           COM PAR $.001   44919P508    69540    3165223 SH        SOLE        NONE    3165223   0       0
+LIBERTY GLOBAL                COM SER A       530555101   139919    5383574 SH        SOLE        NONE    5383574   0       0
+LIBERTY GLOBAL                COM SER A       530555901    25990    1000000     CALL  SOLE        NONE    1000000   0       0
+LIBERTY MEDIA CORP NEW        CAP COM SER A   53071M302   159586    3807828 SH        SOLE        NONE    3807828   0       0
+LIVE NATION ENTERTAINMENT IN  COM             538034109   110571   10580999 SH        SOLE        NONE   10580999   0       0
+LOCKHEED MARTIN CORP          COM             539830109   159154    2136302 SH        SOLE        NONE    2136302   0       0
+LONGTOP FINL TECHNOLOGIES LT  ADR             54318P108   126731    3911462 SH        SOLE        NONE    3911462   0       0
+LORILLARD INC                 COM             544147101    30590     424983 SH        SOLE        NONE     424983   0       0
+MASTERCARD INC                CL A            57636Q104   117723     590000 SH        SOLE        NONE     590000   0       0
+MERCADOLIBRE INC              COM             58733R102   220349    4193127 SH        SOLE        NONE    4193127   0       0
+NIKE INC                      CL B            654106103    34654     513019 SH        SOLE        NONE     513019   0       0
+PEPSICO INC                   COM             713448108   236941    3887471 SH        SOLE        NONE    3887471   0       0
+PRICELINE COM INC             COM NEW         741503403   157638     892929 SH        SOLE        NONE     892929   0       0
+SHANDA GAMES LTD              SP ADR REPTG A  81941U105    16467    2834214 SH        SOLE        NONE    2834214   0       0
+TRANSDIGM GROUP INC           COM             893641100   106231    2081737 SH        SOLE        NONE    2081737   0       0
+VIACOM INC NEW                CL B            92553P201    36013    1148000 SH        SOLE        NONE    1148000   0       0
+XEROX CORP                    COM             984121103    55878    6950000 SH        SOLE        NONE    6950000   0       0
+</TABLE>
+
+SK 03559 0005 1123849
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

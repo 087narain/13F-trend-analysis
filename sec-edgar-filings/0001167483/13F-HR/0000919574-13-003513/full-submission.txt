@@ -1,0 +1,189 @@
+<SEC-DOCUMENT>0000919574-13-003513.txt : 20130515
+<SEC-HEADER>0000919574-13-003513.hdr.sgml : 20130515
+<ACCEPTANCE-DATETIME>20130515140148
+ACCESSION NUMBER:		0000919574-13-003513
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20130331
+FILED AS OF DATE:		20130515
+DATE AS OF CHANGE:		20130515
+EFFECTIVENESS DATE:		20130515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER GLOBAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				134167110
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		13845725
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		212-984-8847
+
+	MAIL ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGER TECHNOLOGY MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20020214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1382572_13f-hr.txt
+<TEXT>
+                            Form 13F Holdings Report
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+         Report for the Calendar Year or Quarter Ended: March 31, 2013
+
+Check here if Amendment                 [ ]; Amendment Number:
+This amendment (Check only one.):       [ ] is a restatement.
+                                        [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:     Tiger Global Management, L.L.C.
+Address:  101 Park Avenue, 48th Floor
+          New York, NY 10178
+
+13 File Number: 28-10100
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct, and
+complete, and and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Anil Crasto
+Title:     Chief Operating Officer
+Phone:     212-500-3800
+Signature, Place and Date of Signing:
+
+/s/ Anil Crasto                   New York, New York             May 15, 2013
+-------------------           -------------------------     --------------------
+   [Signature]                     [City, State]                    [Date]
+
+
+
+<PAGE>
+
+
+Report Type (Check only one.):
+[X]        13F HOLDINGS REPORT.
+[ ]        13F NOTICE.
+[ ]        13F COMBINATION REPORT.
+
+List of Other Managers Reporting for this Manager: NONE
+
+
+<PAGE>
+
+                           FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:            0
+
+Form 13F Information Table Entry Total:       49
+
+Form 13F Information Table Value Total:     $6,440,871
+                                             (thousands)
+
+
+<PAGE>
+
+<TABLE>
+
+                                                         FORM 13F INFORMATION TABLE
+                                                                March 31, 2013
+
+<CAPTION>
+
+
+COL 1                         COL 2            COL 3      COL 4           COL 5          COL 6       COL 7         COL 8
+
+                              TITLE                       VALUE     SHRS OR    SH/ PUT/  INVESTMENT  OTHER      VOTING AUTHORITY
+NAME OF ISSUER                OF CLASS         CUSIP      (X1000)   PRN AMT    PRN CALL  DISCRETION  MGRS   SOLE        SHARED  NONE
+--------------                ---------        -----      -------   --------   --- ----  ----------- ----   -----       ------- ----
+<S>                           <C>              <C>        <C>       <C>        <C> <C>   <C>         <C>    <C>         <C>     <C>
+3-D SYS CORP DEL              COM NEW          88554D205   77,811    2,413,500 SH        SOLE        0       2,413,500  0       0
+AMAZON COM INC                COM              023135106  237,176      890,000 SH        SOLE        0         890,000  0       0
+APPLE INC                     COM              037833100  115,092      260,000 SH        SOLE        0         260,000  0       0
+BAIDU INC                     SPON ADR REP A   056752108  225,389    2,570,000 SH        SOLE        0       2,570,000  0       0
+BIO-REFERENCE LABS INC        COM $.01 NEW     09057G602    5,716      220,000 SH        SOLE        0         220,000  0       0
+BURGER KING WORLDWIDE INC     COM              121220107  137,520    7,200,000 SH        SOLE        0       7,200,000  0       0
+CARTER INC                    COM              146229109  168,374    2,940,000 SH        SOLE        0       2,940,000  0       0
+CHARTER COMMUNICATIONS INC D  CL A NEW         16117M305  143,768    1,380,000 SH        SOLE        0       1,380,000  0       0
+COLFAX CORP                   COM              194014106  162,890    3,500,000 SH        SOLE        0       3,500,000  0       0
+COMCAST CORP NEW              CL A             20030N101   93,196    2,220,000 SH        SOLE        0       2,220,000  0       0
+COMCAST CORP NEW              CL A SPL         20030N200   35,649      900,000 SH        SOLE        0         900,000  0       0
+CROWN CASTLE INTL CORP        COM              228227104   41,088      590,000 SH        SOLE        0         590,000  0       0
+DISNEY WALT CO                COM DISNEY       254687106   62,480    1,100,000 SH        SOLE        0       1,100,000  0       0
+DOLLAR GEN CORP NEW           COM              256677105  269,591    5,330,000 SH        SOLE        0       5,330,000  0       0
+DOLLAR TREE INC               COM              256746108  106,546    2,200,000 SH        SOLE        0       2,200,000  0       0
+EXONE CO                      COM              302104104    1,675       50,000 SH        SOLE        0          50,000  0       0
+FIDELITY NATL INFORMATION SV  COM              31620M106   46,554    1,175,000 SH        SOLE        0       1,175,000  0       0
+FLEETCOR TECHNOLOGIES INC     COM              339041105  237,677    3,100,000 SH        SOLE        0       3,100,000  0       0
+FRANCESCAS HLDGS CORP         COM              351793104   14,360      500,000 SH        SOLE        0         500,000  0       0
+FRONTIER COMMUNICATIONS CORP  COM              35906A108   43,029   10,784,293 SH        SOLE        0      10,784,293  0       0
+GOOGLE INC                    CL A             38259P508  238,256      300,000     PUT   SOLE        0         300,000  0       0
+GRACE W R & CO DEL NEW        COM              38388F108  118,978    1,535,000 SH        SOLE        0       1,535,000  0       0
+GREEN MTN COFFEE ROASTERS IN  COM              393122106   56,760    1,000,000 SH        SOLE        0       1,000,000  0       0
+GROUPON INC                   COM CL A         399473107  397,800   65,000,000 SH        SOLE        0      65,000,000  0       0
+LIBERTY GLOBAL INC            COM SER A        530555101   67,510      920,000 SH        SOLE        0         920,000  0       0
+LIBERTY GLOBAL INC            COM SER C        530555309  295,109    4,300,000 SH        SOLE        0       4,300,000  0       0
+LIBERTY MEDIA CORP DELAWARE   COM A            531229102  611,174    5,475,000 SH        SOLE        0       5,475,000  0       0
+LIVE NATION ENTERTAINMENT IN  COM              538034109   30,925    2,500,000 SH        SOLE        0       2,500,000  0       0
+LULULEMON ATHLETICA INC       COM              550021109   60,787      975,000 SH        SOLE        0         975,000  0       0
+MAKEMYTRIP LIMITED MAURITIUS  SHS              V5633W109   99,870    7,184,866 SH        SOLE        0       7,184,866  0       0
+MASTERCARD INC                CL A             57636Q104  339,830      628,000 SH        SOLE        0         628,000  0       0
+MCGRAW HILL COS INC           COM              580645109  158,844    3,050,000 SH        SOLE        0       3,050,000  0       0
+MCGRAW HILL COS INC           COM              580645109   78,120    1,500,000     PUT   SOLE        0       1,500,000  0       0
+MOTOROLA SOLUTIONS INC        COM NEW          620076307  185,687    2,900,000 SH        SOLE        0       2,900,000  0       0
+NETFLIX INC                   COM              64110L106  123,978      655,000 SH        SOLE        0         655,000  0       0
+NEWS CORP                     CL A             65248E104  274,590    9,000,000 SH        SOLE        0       9,000,000  0       0
+PENNEY J C INC                COM              708160106   80,839    5,350,000 SH        SOLE        0       5,350,000  0       0
+PITNEY BOWES INC              COM              724479100   27,342    1,840,000 SH        SOLE        0       1,840,000  0       0
+PRICELINE COM INC             COM NEW          741503403  261,502      380,000 SH        SOLE        0         380,000  0       0
+DONNELLEY R R & SONS CO       COM              257867101   42,156    3,498,394 SH        SOLE        0       3,498,394  0       0
+SINCLAIR BROADCAST GROUP INC  CL A             829226109   18,415      907,600 SH        SOLE        0         907,600  0       0
+STRATASYS LTD                 SHS              M85548101   96,486    1,300,000 SH        SOLE        0       1,300,000  0       0
+TAL ED GROUP                  ADS REPSTG COM   874080104   76,366    8,150,000 SH        SOLE        0       8,150,000  0       0
+UNITED STATES NATL GAS FUND   UNIT PAR $0.001  912318201   28,444    1,300,000     CALL  SOLE        0       1,300,000  0       0
+VERA BRADLEY INC              COM              92335C106   14,755      624,434 SH        SOLE        0         624,434  0       0
+VIPSHOP HLDGS LTD             SPONSORED ADR    92763W103   25,815      850,000 SH        SOLE        0         850,000  0       0
+VISA INC                      COM CL A         92826C839  326,772    1,924,000 SH        SOLE        0       1,924,000  0       0
+YY INC                        ADS REPCOM CLA   98426T106   64,820    3,835,532 SH        SOLE        0       3,835,532  0       0
+ZOETIS INC                    CL A             98978V103   13,360      400,000 SH        SOLE        0         400,000  0       0
+
+</TABLE>
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

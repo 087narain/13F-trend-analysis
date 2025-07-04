@@ -1,0 +1,228 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ix8EyiFmOkYiYKXMCs+bAKJKgndEsj00dfCrhR6g/XALw+fYpEKqVKNwLdNNwrRf
+ JMIHfd47+38sOed7Le1Ppg==
+
+<SEC-DOCUMENT>0001167483-06-000012.txt : 20060515
+<SEC-HEADER>0001167483-06-000012.hdr.sgml : 20060515
+<ACCEPTANCE-DATETIME>20060515140836
+ACCESSION NUMBER:		0001167483-06-000012
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20060331
+FILED AS OF DATE:		20060515
+DATE AS OF CHANGE:		20060515
+EFFECTIVENESS DATE:		20060515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER GLOBAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		06839419
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129842500
+
+	MAIL ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGER TECHNOLOGY MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20020214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>global13f3312006.txt
+<TEXT>
+	13F-
+3/31/2006
+000167483
+6stn*cxy
+NONE
+1
+Athos Z. Zakou
+212-984-2119
+athos.zakou@tigerfund.com
+13F-HR
+Form 13F Holdings Report
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+FORM 13F
+
+FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2006
+
+Check here if Amendment [  ]; Amendment Number:
+This amendment (Check only one.): [ ] is a restatement.
+                                  [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+Name:     Tiger Global Management, LLC
+Address:  101 Park Avenue, 48th Floor
+          New York, NY 10178
+
+13 File Number: 28-10100
+
+The institutional investment manager filing this report and the
+person by whom it is signed hereby represent that the person
+signing the report is authorized to submit it, that all
+information contained herein is true, correct, and complete, and
+and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of
+this form
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Charles P. Coleman III
+Title:     Managing Member
+Phone:     212-984-2500
+Signature, Place and Date of Signing:
+
+    Charles P. Coleman III  May 15, 2006
+
+Report Type (Check only one.):
+[ X]        13F HOLDINGS REPORT.
+[  ]        13F NOTICE.
+[  ]        13F COMBINATION REPORT.
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE
+ACT OF 1934
+<PAGE>
+                           FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:            0
+
+Form 13F Information Table Entry Total:      52
+
+Form 13F Information Table Value Total: 1132160
+
+<PAGE>
+<TABLE>                          <C>                                            <C>
+                                                                FORM 13F INFORMATION TABLE
+                                                              VALUE   SHARES/ SH/ PUT/ INVSTMT   OTHER        VOTING AUTHORITY
+           NAME OF ISSUER        TITLE OF CLASS     CUSIP   x($1000) PRN AMT  PRN CALL DISCRETN MANAGERS   SOLE    SHARED    NONE
+  ------------------------------ ---------------- --------- -------- -------- --- ---- -------- --------- -------- -------- --------
+D ALLSCRIPTS HEALTHCARE SOLUTI   COMMON STOCK     01988P108    10620   580000 SH       SOLE     01          580000        0        0
+D AMERICAN SCIENCE & ENGR INC    COMMON STOCK     029429107    28020   300000 SH       SOLE     01          300000        0        0
+D AMERICAN TOWER CORP            COMMON STOCK     029912201   113852  3755000 SH       SOLE     01         3755000        0        0
+D AMERICA MOVIL SA DE CV         SPONSORED ADR    02364W105    80168  2340000 SH       SOLE     01         2340000        0        0
+D AUDIBLE INC                    COMMON STOCK     05069A302     1034    98348 SH       SOLE     01           98348        0        0
+D BAIDU COM INC                  SPONSORED ADR    056752108      135     2403 SH       SOLE     01            2403        0        0
+D BANKRATE INC                   COMMON STOCK     06646V108    27486   631000 SH       SOLE     01          631000        0        0
+D CENTRAL EUROPEAN MEDIA         COMMON STOCK     G20045202    34305   500000 SH       SOLE     01          500000        0        0
+D CGI HLDG CORP                  COMMON STOCK     125318105     2686  1428571 SH       SOLE     01         1428571        0	   0
+D CHENIERE ENERGY INC            COMMON STOCK     16411R208    80442  1982800 SH       SOLE     01         1982800        0        0
+D CHINA TECHFAITH WIRLS COMM T   SPONSORED ADR    169424108    13322   920000 SH       SOLE     01          920000        0        0
+D CLICK COMMERCE INC		 COMMON STOCK     18681D208    10534   440000 SH       SOLE     01          440000        0        0
+D COLT TELECOM GROUP PLC         SPONSORED ADR    196877104     1443   295000 SH       SOLE     01          295000        0        0
+D COMCAST CORP NEW               CLASS A SPL      20030N200     5885   225300 SH       SOLE     01          225300        0        0
+D CROCS INC                      COMMON STOCK     227046109    11878   472300 SH       SOLE     01          472300        0        0
+D CTRIP.COM                      SPONSORED ADR    22943F100    30434   368009 SH       SOLE     01          368009        0        0
+D ECOLLEGE.COM                   COMMON STOCK     27887E100    37836  2008306 SH       SOLE     01         2008306        0        0
+D ELONG INC			 SPONSORED ADR    290138205 	9164   750550 SH       SOLE     01          750550        0        0
+D GOOGLE INC                     COMMON STOCK     38259P508    83197   213325 SH       SOLE     01          213325        0        0
+D GARMIN LTD                     ORDINARY SHARES  G37260109    12312   155000 SH       SOLE     01          155000        0        0
+D Imax Corp			 COMMON STOCK 	  45245E109    12992  1280000 SH       SOLE     01         1280000        0        0
+D IONATRON INC                   COMMON STCOK     462070103     2634   195000 SH       SOLE     01          195000        0        0
+D IRON MTN INC                   COMMON STCOK     462846106    19352   475000 SH       SOLE     01          475000        0        0
+D IRSA INVERSIONES Y REP SA      GLOBL DEP RCPT   450047204    12405  1046800 SH       SOLE     01         1046800        0        0
+D J2 GLOBAL COMMUNICATIONS INC   COMMON STOCK     46626E205    43519   925932 SH       SOLE     01          925932        0        0
+D KONINKLIJKE PHILIPS ELECTRS    NY REG SH NEW    500472303     9543   283600 SH       SOLE     01          283600        0        0
+D LA Z BOY INC                   COMMON STOCK     505336107    16660   980000 SH       SOLE     01          980000        0        0
+D LEVEL 3 COMMUNICATIONS INC     COMMON STOCK     52729N100    12127  2341170 SH       SOLE     01         2341170        0        0
+D MICROSOFT CORP. 		 CALL             594918904     4497    45700 SH       SOLE     01           45700        0        0
+D NESS TECHNOLOGIES INC          COMMON STOCK     64104X108    11943   948600 SH       SOLE     01          948600        0        0
+D NRG ENERGY INC.                COMMON STOCK     629377508    45672  1010000 SH       SOLE     01         1010000        0        0
+D NUTRI SYS INC NEW              COMMON STOCK     67069D108    53460  1125000 SH       SOLE     01         1125000        0        0
+D OPTIMAL GROUP                  COMMON STOCK     68388R208    12545   863412 SH       SOLE     01          863412        0        0
+D ORCKIT COMMUNICATIONS INC      COMMON STOCK     M7531S206    10814   492000 SH       SOLE     01          492000        0        0
+D PALM INC                       COMMON STOCK     696643105    58271  2516000 SH       SOLE     01         2516000        0        0
+D PARLUX FRAGNANCES INC          COMMON STOCK     701645103    11965   371000 SH       SOLE     01          371000        0        0
+D PORTALPLAYER INC               COMMON STOCK     736187204     3890   175000 SH       SOLE     01          175000        0        0
+D PULTE HOMES INC                COMMON STOCK     745867101    28600   744400 SH       SOLE     01          744400        0        0
+D QIAO XING UNIVERSAL ORD SHS    COMMON STOCK     G7303A109     3418   399776 SH       SOLE     01          399776        0        0
+D REDIFF COM INDIA LTD           SPONSORED ADR    757479100    12010   570000 SH       SOLE     01          570000        0        0
+D SONIC SOLUTIONS                COMMON STOCK     835460106     6610   365000 SH       SOLE     01          365000        0        0
+D SPRINT NEXTEL CORP             COMMON STOCK     852061100    32300  1250000 SH       SOLE     01         1250000        0        0
+D TELKONET INC.                  COMMON STOCK     879604106     7142  1680500 SH       SOLE     01         1680500        0        0
+D TEMPUR PEDIC INTL INC          COMMON STOCK     88023U101    11745   830000 SH       SOLE     01          830000        0        0
+D TEXAS INSTRS INC               COMMON STOCK     882508104    40295  1241000 SH       SOLE     01         1241000        0        0
+D TIVO INC                       COMMON STOCK     888706108     5784   800000 SH       SOLE     01          800000        0        0
+D TOLL BROTHERS INC              COMMON STOCK     889478103    18181   525000 SH       SOLE     01          525000        0        0
+D TRAFFIC COM INC                COMMON STOCK     892717109     6972   835000 SH       SOLE     01          835000        0        0
+D TRUE RELIGION APPAREL INC      COMMON STOCK     89784N104     1570    85000 SH       SOLE     01           85000        0        0
+D UTSTARCOM INC                  COMMON STOCK     918076100     5158   820000 SH       SOLE     01          820000        0        0
+D VIDESH SANCHAR NIGAM LTD       SPONSORED ADR    92659G600    12522   583500 SH       SOLE     01          583500        0        0
+D ZIX CORP                       COMMON STOCK     98974P100     2811  1925350 SH       SOLE     01         1925350        0        0
+S REPORT SUMMARY                 52 DATA RECORDS             1132160        0 OTHER MANAGERS ON WHOSE BEHALF REPORT IS FILED
+</TABLE>
+
+
+
+13F: Report Creation
+
+NOTE: The 13F-HR File ends on the line labeled TABLE. All
+information following this line is informational and should not be included
+in the SEC Filing.
+
+Period                       3/31/2006
+Client                       Tiger Global Management, L.L.C.
+Use Adjustments              No
+Combine Funds                No
+Report Data Records                            52
+               Total Records                   52
+               Total Omitted                    0
+Report Market Value x($1000)              1132160
+Other Managers Included                         0
+
+Omitted Records (positions with quantity less than 10,000 and market value
+less than $200,000)
+
+                     Omitted Records
+     Cusip             Desciption              Quantity    Market Value
+
+
+Export
+
+BrowserMicrosoft WordMicrosoft Excel
+
+Actions
+
+  1. Go Back to Client List
+
+  ------------------------------------------------------------------------
+13F Help
+  ------------------------------------------------------------------------
+http://pisas62/cgi-bin-local/cli_sys/restricted/apps/13f/prod/run_report.pl
+(capolong)
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

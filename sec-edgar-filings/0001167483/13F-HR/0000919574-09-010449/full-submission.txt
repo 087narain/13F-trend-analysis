@@ -1,0 +1,188 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TO04V8Y8Pg9p4qX06tYRgOfquQ2ZrColRd4liIzctmXieL6yj/lWfCLTh7Qqv4XF
+ oeVV4OPGS6WQYgwgnuqvWg==
+
+<SEC-DOCUMENT>0000919574-09-010449.txt : 20090515
+<SEC-HEADER>0000919574-09-010449.hdr.sgml : 20090515
+<ACCEPTANCE-DATETIME>20090514180831
+ACCESSION NUMBER:		0000919574-09-010449
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20090331
+FILED AS OF DATE:		20090515
+DATE AS OF CHANGE:		20090514
+EFFECTIVENESS DATE:		20090515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER GLOBAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		09828172
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129848847
+
+	MAIL ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGER TECHNOLOGY MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20020214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d995558_13f-hr.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+         Report for the Calendar Year or Quarter Ended: March 31, 2009
+
+Check here if Amendment           [ ]; Amendment Number:
+This amendment (Check only one.): [ ] is a restatement.
+                                  [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:     Tiger Global Management, L.L.C.
+
+Address:  101 Park Avenue, 48th Floor
+          New York, NY 10178
+
+13 File Number: 28-10100
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct, and
+complete, and and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Charles P. Coleman III
+Title:    Managing Member
+Phone:    212-984-2500
+
+Signature, Place and Date of Signing:
+
+
+/s/ Charles P. Coleman III        New York, New York           May 15, 2009
+- --------------------------     ------------------------     -------------------
+      [Signature]                    [City, State]                 [Date]
+
+<PAGE>
+
+Report Type (Check only one.):
+
+[X]  13F HOLDINGS REPORT.
+
+[_]  13F NOTICE.
+
+[_]  13F COMBINATION REPORT.
+
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934
+
+<PAGE>
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:            0
+
+Form 13F Information Table Entry Total:      46
+
+Form 13F Information Table Value Total:      $2,508,039
+                                              (thousands)
+
+<PAGE>
+<TABLE>
+                                                     FORM 13F INFORMATION TABLE
+<CAPTION>
+
+                                                            VALUE   SHARES/ SH/ PUT/ INVSTMT   OTHER        VOTING AUTHORITY
+         NAME OF ISSUER        TITLE OF CLASS     CUSIP   x($1000) PRN AMT  PRN CALL DISCRETN MANAGERS   SOLE    SHARED    NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- -------- --------- -------- -------- --------
+<S>                            <C>              <C>         <C>     <C>     <C> <C>  <C>      <C>        <C>         <C>      <C>
+ADVISORY BRD CO                COM              00762W107     5621   339036 SH       SOLE     NONE        339036     0        0
+ALTRIA GROUP INC               COM              02209S103    37086  2315000 SH       SOLE     NONE       2315000     0        0
+APPLE INC                      COM              037833100    66331   631000 SH       SOLE     NONE        631000     0        0
+BROADRIDGE FINL SOLUTIONS IN   COM              11133T103    35173  1890000 SH       SOLE     NONE       1890000     0        0
+BURLINGTON NORTHN SANTA FE C   COM              12189T104    15579   259000 SH       SOLE     NONE        259000     0        0
+CISCO SYS INC                  COM              17275R102    32785  1955000 SH       SOLE     NONE       1955000     0        0
+CITIGROUP INC                  COM              172967101     5060  2000000 SH       SOLE     NONE       2000000     0        0
+COGNIZANT TECHNOLOGY SOLUTIO   CL A             192446102    23909  1150000 SH       SOLE     NONE       1150000     0        0
+CROWN HOLDINGS INC             COM              228368106    26867  1182000 SH       SOLE     NONE       1182000     0        0
+CSX CORP                       COM              126408103    23443   906900 SH       SOLE     NONE        906900     0        0
+DIAMONDS TR                    UNIT SER 1       252787106    12745   168055 SH       SOLE     NONE        168055     0        0
+DISCOVERY COMMUNICATNS NEW     COM SER A        25470F104    18071  1128047 SH       SOLE     NONE       1128047     0        0
+DISCOVERY COMMUNICATNS NEW     COM SER C        25470F302    57354  3914952 SH       SOLE     NONE       3914952     0        0
+ELECTRONIC ARTS INC            COM              285512109    27740  1525000 SH       SOLE     NONE       1525000     0        0
+GOOGLE INC                     CL A             38259P508    92590   266016 SH       SOLE     NONE        266016     0        0
+GUSHAN ENVIRONMENTAL ENRGY L   SPON ADR         40330W106    12921  7645363 SH       SOLE     NONE       7645363     0        0
+GYMBOREE CORP                  COM              403777105    24980  1170000 SH       SOLE     NONE       1170000     0        0
+HECKMANN CORP                  COM              422680108     8435  1750000 SH       SOLE     NONE       1750000     0        0
+HILL ROM HLDGS INC             COM              431475102     4945   500000 SH       SOLE     NONE        500000     0        0
+ISHARES TR                     RUSSELL 2000     464287655    18939   450400 SH       SOLE     NONE        450400     0        0
+ISHARES TR                     RUSL 2000 VALU   464287630     9979   252900 SH       SOLE     NONE        252900     0        0
+JOHNSON & JOHNSON              COM              478160104    33296   633000 SH       SOLE     NONE        633000     0        0
+LOCKHEED MARTIN CORP           COM              539830109     8974   130000 SH       SOLE     NONE        130000     0        0
+LONGTOP FINL TECHNOLOGIES LT   ADR              54318P108   190031  8951065 SH       SOLE     NONE       8951065     0        0
+LORILLARD INC                  COM              544147101   186330  3017986 SH       SOLE     NONE       3017986     0        0
+MASTERCARD INC                 CL A             57636Q104   197006  1176293 SH       SOLE     NONE       1176293     0        0
+MERCADOLIBRE INC               COM              58733R102    80379  4333097 SH       SOLE     NONE       4333097     0        0
+MICROSOFT CORP                 COM              594918104    82114  4470000 SH       SOLE     NONE       4470000     0        0
+MONSANTO CO NEW                COM              61166W101    23268   280000 SH       SOLE     NONE        280000     0        0
+NATIONAL FINL PARTNERS CORP    NOTE 0.750% 2/0  63607PAA7    12750    37500 SH       SOLE     NONE         37500     0        0
+NEW ORIENTAL ED & TECH GRP I   SPON ADR         647581107    30223   601453 SH       SOLE     NONE        601453     0        0
+NIKE INC                       CL B             654106103    22835   487000 SH       SOLE     NONE        487000     0        0
+PAYCHEX INC                    COM              704326107    30470  1187000 SH       SOLE     NONE       1187000     0        0
+PHILIP MORRIS INTL INC         COM              718172109    26617   748100 SH       SOLE     NONE        748100     0        0
+POWERSHARES QQQ TRUST          UNIT SER 1       73935A104    41387  1365000 SH       SOLE     NONE       1365000     0        0
+PRICELINE COM INC              COM NEW          741503403   109369  1388286 SH       SOLE     NONE       1388286     0        0
+QUALCOMM INC                   COM              747525103    58013  1490958 SH       SOLE     NONE       1490958     0        0
+SELECT SECTOR SPDR TR          SBI INT-ENERGY   81369Y506   126878  2988170 SH       SOLE     NONE       2988170     0        0
+SEMICONDUCTOR HLDRS TR         DEP RCPT         816636203    36372  1945000 SH       SOLE     NONE       1945000     0        0
+SPDR TR                        UNIT SER 1       78462F103   185386  2331316 SH       SOLE     NONE       2331316     0        0
+SPDR GOLD TRUST                GOLD SHS         78463V107   175504  1944000 SH       SOLE     NONE       1944000     0        0
+SYNAPTICS INC                  COM              87157D109    29102  1087500 SH       SOLE     NONE       1087500     0        0
+TERADATA CORP DEL              COM              88076W103    39950  2463000 SH       SOLE     NONE       2463000     0        0
+TRANSDIGM GROUP INC            COM              893641100    59281  1805137 SH       SOLE     NONE       1805137     0        0
+UNITED STATES OIL FUND LP      UNITS            91232N108     7263   250000 SH       SOLE     NONE        250000     0        0
+VISA INC                       COM CL A         92826C839   154688  2782155 SH       SOLE     NONE       2782155     0        0
+</TABLE>
+
+
+SK 03559 0005 #995558
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

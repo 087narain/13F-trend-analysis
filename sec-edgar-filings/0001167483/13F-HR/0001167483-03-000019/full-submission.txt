@@ -1,0 +1,212 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OF2UvuZo82o38wxsVxqIN6CFNojyw3y4ma3itg3vqbVNyu/MUpjLtIiFIzRW9E2b
+ xNdNclqY++YEBb6W8DJvyQ==
+
+<SEC-DOCUMENT>0001167483-03-000019.txt : 20031114
+<SEC-HEADER>0001167483-03-000019.hdr.sgml : 20031114
+<ACCEPTANCE-DATETIME>20031114160308
+ACCESSION NUMBER:		0001167483-03-000019
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20030930
+FILED AS OF DATE:		20031114
+EFFECTIVENESS DATE:		20031114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER TECHNOLOGY MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		031004659
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129842500
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>tech13f93003.txt
+<TEXT>
+	13F-HR
+09/30/03
+000167483
+6stn*cxy
+NONE
+1
+Anthony A. Vinitsky
+212-984-2562
+anthony_vinitsky@tigerfund.com
+13F-HR
+Form 13F Holdings Report
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+FORM 13F
+
+FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: September 30, 2003
+
+Check here if Amendment [  ]; Amendment Number:
+This amendment (Check only one.): [ ] is a restatement.
+                                  [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+Name:     Tiger Technology Management, LLC
+Address:  101 Park Avenue, 48th Floor
+          New York, NY 10178
+
+13 File Number: 28-10100
+
+The institutional investment manager filing this report and the
+person by whom it is signed hereby represent that the person
+signing the report is authorized to submit it, that all
+information contained herein is true, correct, and complete, and
+and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of
+this form
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Charles P. Coleman III
+Title:     Managing Member
+Phone:     212-984-2500
+Signature, Place and Date of Signing:
+
+    Charles P. Coleman III  November 15, 2003
+
+Report Type (Check only one.):
+[ X]        13F HOLDINGS REPORT.
+[  ]        13F NOTICE.
+[  ]        13F COMBINATION REPORT.
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE
+ACT OF 1934
+<PAGE>
+                           FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form 13F Information Table Entry Total:    47
+
+Form 13F Information Table Value Total:    384050
+
+<PAGE>
+<TABLE>                          <C>                                            <C>
+                                                                FORM 13F INFORMATION TABLE
+                                                              VALUE   SHARES/ SH/ PUT/ INVSTMT   OTHER        VOTING AUTHORITY
+           NAME OF ISSUER        TITLE OF CLASS     CUSIP   x($1000) PRN AMT  PRN CALL DISCRETN MANAGERS   SOLE    SHARED    NONE
+  ------------------------------ ---------------- --------- -------- -------- --- ---- -------- --------- -------- -------- --------
+D AMERICAN TOWER CORP CL A       COMMON STOCK     029912201     1184   116631 SH       SOLE     01          116631        0        0
+D APPLE COMPUTERS INC            COMMON STOCK     037833100     4144   200000 SH       SOLE     01          200000        0        0
+D ATARI INC                      COMMON STOCK     04651M105      808   200000 SH       SOLE     01          200000        0        0
+D BUSINESS OBJECTS S A           SPONSORED ADR    12328X107     1248    50000 SH       SOLE     01           50000        0        0
+D CDW COMPUTER CTRS INC          COMMON STOCK     125129106     5184    90000 SH       SOLE     01           90000        0        0
+D CHECKFREE CORP NEW             COMMON STOCK     162813109     9705   482600 SH       SOLE     01          482600        0        0
+D COGNOS INC                     COMMON STOCK     19244C109     4653   150000 SH       SOLE     01          150000        0        0
+D DELL COMPUTER CORP             COMMON STOCK     247025109     1671    50000 SH       SOLE     01           50000        0        0
+D DIGITAL RIVER INC              COMMON STOCK     25388B104     2737   100000 SH       SOLE     01          100000        0        0
+D DUN & BRADSTREET CORP          COMMON STOCK     26483E100     4154   100000 SH       SOLE     01          100000        0        0
+D E.PIPHANY INC                  COMMON STOCK     26881V100     3768   755024 SH       SOLE     01          755024        0        0
+D EBAY INC                       COMMON STOCK     278642103     5391   100500 SH       SOLE     01          100500        0        0
+D FALCONSTOR SFTW                COMMON STOCK     306137100      537    86214 SH       SOLE     01           86214        0        0
+D HYPERION SOLUTIONS CORP        COMMON STOCK     44914M104    14505   500000 SH       SOLE     01          500000        0        0
+D INTEL CORP                     COMMON STOCK     458140100     5504   200000 SH       SOLE     01          200000        0        0
+D INTERCEPT INC                  COMMON STOCK     45845L107    16233  1191000 SH       SOLE     01         1191000        0        0
+D INTERNET INITIATIVE JAPAN IN   SPONSORED ADR    46059T109     4041   570000 SH       SOLE     01          570000        0        0
+D IRON MOUNTAIN INC              COMMON STOCK     462846106    14058   391600 SH       SOLE     01          391600        0        0
+D J2 GLOBAL COMM INC             COMMON STOCK     46626E205    14489   383000 SH       SOLE     01          383000        0        0
+D KEYNOTE SYS INC                COMMON STOCK     493308100      215    19223 SH       SOLE     01           19223        0        0
+D LEXMARK INTL GROUP INC CL A    COMMON STOCK     529771107    13648   216600 SH       SOLE     01          216600        0        0
+D LIVEPERSON INC                 COMMON STOCK     538146101     1035   255500 SH       SOLE     01          255500        0        0
+D LOCKHEED MARTIN CORP           COMMON STOCK     539830109     4657   100900 SH       SOLE     01          100900        0        0
+D MAGMA DESIGN AUTOMATION        COMMON STOCK     559181102     3920   200000 SH       SOLE     01          200000        0        0
+D MICROSOFT CORP                 COMMON STOCK     594918104    13344   480000 SH       SOLE     01          480000        0        0
+D MOBILE TELESYSTEMS OJSC        SPONSORED ADR    607409109     8458   115000 SH       SOLE     01          115000        0        0
+D NETWORK ASSOCIATES INC         COMMON STOCK     640938106    26557  1930000 SH       SOLE     01         1930000        0        0
+D NETEASE.COM INC                SPONSORED ADR    64110W102    38823   695000 SH       SOLE     01          695000        0        0
+D OPEN JT STK CO- VIMPEL COMMUNI SPONSORED ADR    68370R109     8739   143600 SH       SOLE     01          143600        0        0
+D ORACLE CORPORATION             COMMON STOCK     68389X105     5721   508500 SH       SOLE     01          508500        0        0
+D OVERSTOCK.COM                  COMMON STOCK     690370101    13324   894700 SH       SOLE     01          894700        0        0
+D OVERTURE SERVICES INC          COMMON STOCK     69039R100     3950   150000 SH       SOLE     01          150000        0        0
+D PRICELINE.COM INC              COMMON STOCK     741503106     6066   208882 SH       SOLE     01          208882        0        0
+D PROQUEST COMPANY               COMMON STOCK     74346P102     9205   350000 SH       SOLE     01          350000        0        0
+D SAFENET INC                    COMMON STOCK     78645R107    23365   646700 SH       SOLE     01          646700        0        0
+D SANMINA SCI CORP               COMMON STOCK     800907107     1449   150000 SH       SOLE     01          150000        0        0
+D SIEBEL SYS INC                 COMMON STOCK     826170102     5954   610000 SH       SOLE     01          610000        0        0
+D SIFY LIMITED                   SPONSORED ADR    82655M107      809   135684 SH       SOLE     01          135684        0        0
+D SOHU COM INC                   COMMON STOCK     83408W103    12483   400345 SH       SOLE     01          400345        0        0
+D SONIC SOLUTIONS INC            COMMON STOCK     835460106     2649   190000 SH       SOLE     01          190000        0        0
+D TECH DATA CORP                 COMMON STOCK     878237106     5245   170000 SH       SOLE     01          170000        0        0
+D TELLABS INC                    COMMON STOCK     879664100     1362   200000 SH       SOLE     01          200000        0        0
+D TEXAS INSTRS INC               COMMON STOCK     882508104     3876   170000 SH       SOLE     01          170000        0        0
+D VERITY INC                     COMMON STOCK     92343C106     4589   350000 SH       SOLE     01          350000        0        0
+D WEBEX COMMUNICATIONS  INC      COMMON STOCK     94767L109     6750   357508 SH       SOLE     01          357508        0        0
+D SINA CORP ORD SHS              COMMON STOCK     G7303A109    40375  1130630 SH       SOLE     01         1130630        0        0
+D QIAO XING UNIVERSAL ORD SHS    COMMON STOCK     G81477104     3468   407000 SH       SOLE     01          407000        0        0
+S REPORT SUMMARY                 47 DATA RECORDS              384050        0 OTHER MANAGERS ON WHOSE BEHALF REPORT IS FILED
+</TABLE>
+
+
+
+
+13F: Report Creation
+
+NOTE: The 13F-HR File ends on the line labled TABLE. All
+information following this line is informational and should not be included
+in the SEC Filing.
+
+Period                       09/30/03
+Client                       Tiger Technology Management, LLC
+Use Adjustments              No
+Combine Funds                No
+Report Data Records                            47
+               Total Records                   47
+               Total Omitted                    0
+Report Market Value x($1000)               384050
+Other Managers Included                         0
+
+Omitted Records (positions with quantity less than 10,000 and market value
+less than $200,000)
+
+                     Omitted Records
+#   Cusip          Desciption        QuantityMarket Value
+
+
+Export
+
+BrowserMicrosoft WordMicrosoft Excel
+
+Actions
+
+  1. Go Back to Client List
+
+  ------------------------------------------------------------------------
+13F Help
+  ------------------------------------------------------------------------
+http://pisas62/cgi-bin-local/cli_sys/restricted/apps/13f/prod/run_report.pl
+(capolong)
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

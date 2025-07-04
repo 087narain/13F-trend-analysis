@@ -1,0 +1,208 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ D/oQ/Jm+d6QZxpoDsZ9qs2tnGpvOlfA+5Ngy0/WL3rCHFTwUdVvHs2chpZxeAcqD
+ YXj/RdQ68XqTQNSuE30w3Q==
+
+<SEC-DOCUMENT>0001167483-05-000008.txt : 20050215
+<SEC-HEADER>0001167483-05-000008.hdr.sgml : 20050215
+<ACCEPTANCE-DATETIME>20050215105910
+ACCESSION NUMBER:		0001167483-05-000008
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20041231
+FILED AS OF DATE:		20050215
+DATE AS OF CHANGE:		20050215
+EFFECTIVENESS DATE:		20050215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER TECHNOLOGY MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		05615304
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129842500
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>tech13f123104.txt
+<TEXT>
+	13F-HR
+12/31/04
+000167483
+6stn*cxy
+NONE
+1
+Albert C. Vigneau
+212-984-2562
+albert_vigneau@tigerfund.com
+13F-HR
+Form 13F Holdings Report
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C.  20549
+
+FORM 13F
+
+FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: December 31,2004
+
+Check here if Amendment [  ]; Amendment Number:
+This amendment (Check only one.): [ ] is a restatement.
+                                  [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+Name:     Tiger Technology Management, LLC
+Address:  101 Park Avenue, 48th Floor
+          New York, NY 10178
+
+13 File Number: 28-10100
+
+The institutional investment manager filing this report and the
+person by whom it is signed hereby represent that the person
+signing the report is authorized to submit it, that all
+information contained herein is true, correct, and complete, and
+and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of
+this form
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Charles P. Coleman III
+Title:     Managing Member
+Phone:     212-984-2500
+Signature, Place and Date of Signing:
+
+    Charles P. Coleman III  February 15, 2005
+
+Report Type (Check only one.):
+[ X]        13F HOLDINGS REPORT.
+[  ]        13F NOTICE.
+[  ]        13F COMBINATION REPORT.
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE
+ACT OF 1934
+<PAGE>
+                           FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form 13F Information Table Entry Total:    43
+
+Form 13F Information Table Value Total:    645499
+
+<PAGE>
+<TABLE>                          <C>                                            <C>
+                                                                FORM 13F INFORMATION TABLE
+                                                              VALUE   SHARES/ SH/ PUT/ INVSTMT   OTHER        VOTING AUTHORITY
+           NAME OF ISSUER        TITLE OF CLASS     CUSIP   x($1000) PRN AMT  PRN CALL DISCRETN MANAGERS   SOLE    SHARED    NONE
+  ------------------------------ ---------------- --------- -------- -------- --- ---- -------- --------- -------- -------- --------
+D AMERICAN TOWER CORP            COMMON STOCK     029912201    18400  1000000 SH       SOLE     01         1000000        0
+D AMERICA MOVIL SA DE CV         SPONSORED ADR    02364W105    58109  1110000 SH       SOLE     01         1110000        0        0
+D Apollo Group Inc               COMMON STOCK     037604105    38410   475903 SH       SOLE     01          475903        0        0
+D AU OPTRONICS CORP-ADR          SPONSORED ADR    002255107     2864   200000 SH       SOLE     01          200000        0        0
+D BLACKBOARD                     COMMON STOCK     091935502     7405   500000 SH       SOLE     01          500000        0        0
+D CAREER EDUCATION CORP          COMMON STOCK     141665109    29956   748900 SH       SOLE     01          748900        0        0
+D CENTRAL EURO DIST.             COMMON STOCK     153435102     2954   100000 SH       SOLE     01          100000        0        0
+D CENTRAL EUROPEAN MEDIA         COMMON STOCK     G20045202     6224   159913 SH       SOLE     01          159913        0        0
+D CHECK FREE CORP.               COMMON STOCK     162813109    11424   300000 SH       SOLE     01          300000        0        0
+D CHINA NETCOM GROUP             SPONSORED ADR    16940Q101     1004    37500 SH       SOLE     01           37500        0        0
+D CTRIP.COM                      SPONSORED ADR    22943F100    13724   298210 SH       SOLE     01          298210        0        0
+D DELL COMPUTER                  COMMON STOCK     24702R101     8849   210000 SH       SOLE     01          210000        0        0
+D ECOLLEGE.COM                   COMMON STOCK     27887E100    20448  1800000 SH       SOLE     01         1800000        0        0
+D Educate Inc                    COMMON STOCK     28138P100     8042   607400 SH       SOLE     01          607400        0        0
+D GLOBAL CROSSING LTD            COMMON STOCK     G3921A175    16409   904500 SH       SOLE     01          904500        0        0
+D GOOGLE                         COMMON STOCK     38259P508    14459    75000 SH       SOLE     01           75000        0        0
+D J2 Global Communications Inc   COMMON STOCK     46626E205    13214   383000 SH       SOLE     01          383000        0        0
+D 51JOB ADS                      SPONSORED ADR    316827104     5197   100000 SH       SOLE     01          100000        0        0
+D LG PHILIPS LCD                 SPONSORED ADR    50186V102    14354   797900 SH       SOLE     01          797900        0        0
+D LEVEL 3 COMMUNICATIONS INC     COMMON STOCK     52729N100     8784  2591170 SH       SOLE     01         2591170        0        0
+D LEXMARK INTL INC. CL A         COMMON STOCK     529771107    23800   280000 SH       SOLE     01          280000        0        0
+D MOBILE TELESYSTEMS             SPONSORED ADR    607409109    16690   120500 SH       SOLE     01          120500        0        0
+D McAfee Inc                     COMMON STOCK     579064106    44842  1550000 SH       SOLE     01         1550000        0        0
+D THE9 ADS                       SPONSORED ADR    88337K104     1181    50000 SH       SOLE     01           50000        0        0
+D NETEASE.COM                    SPONSORED ADR    64110W102     6848   129408 SH       SOLE     01          129408        0        0
+D OPTIMAL GROUP                  COMMON STOCK     68388R208     8262   701400 SH       SOLE     01          701400        0        0
+D OPSWARE INC                    COMMON STOCK     68383A101     3670   500000 SH       SOLE     01          500000        0        0
+D OVERSTOCK.COM                  COMMON STOCK     690370101    28428   411996 SH       SOLE     01          411996        0        0
+D PULTE HOMES INC                COMMON STOCK     745867101     4785    75000 SH       SOLE     01           75000        0        0
+D RightNow Technologies Inc      COMMON STOCK     76657R106     2423   150000 SH       SOLE     01          150000        0        0
+D SINA.COM                       COMMON STOCK     G81477104    31259   975000 SH       SOLE     01          975000        0        0
+D SONIC SOLUTIONS                COMMON STOCK     835460106     8191   365000 SH       SOLE     01          365000        0        0
+D SOHU COM INC                   COMMON STOCK     83408W103    13569   766160 SH       SOLE     01          766160        0        0
+D Greenfield Online Inc          COMMON STOCK     395150105    14843   675000 SH       SOLE     01          675000        0        0
+D Spectrasite Inc                COMMON STOCK     84761M104     8685   150000 SH       SOLE     01          150000        0        0
+D Strayer Education Inc          COMMON STOCK     863236105    37329   340000 SH       SOLE     01          340000        0        0
+D TELEKOM SA LTD                 SPONSORED ADR    879603108    18770  1085000 SH       SOLE     01         1085000        0        0
+D TOLL BROTHERS                  COMMON STOCK     889478103    42353   617300 SH       SOLE     01          617300        0        0
+D TESSERA TECHNOLOGIES INC       COMMON STOCK     88164L100    10233   275000 SH       SOLE     01          275000        0        0
+D OPEN JT STK CO-VIMPEL COMMUN   SPONSORED ADR    68370R109    11735   324700 SH       SOLE     01          324700        0        0
+D QIAO XING UNIVERSAL ORD SHS    COMMON STOCK     G7303A109      879   102751 SH       SOLE     01          102751        0        0
+D YAHOO! INC                     COMMON STOCK     984332106     5464   145000 SH       SOLE     01          145000        0        0
+D Zix Corp                       COMMON STOCK     98974P100     1030   200000 SH       SOLE     01          200000        0        0
+S REPORT SUMMARY                 43 DATA RECORDS              645499        0 OTHER MANAGERS ON WHOSE BEHALF REPORT IS FILED
+</TABLE>
+
+
+
+13F: Report Creation
+
+NOTE: The 13F-HR File ends on the line labeled TABLE. All
+information following this line is informational and should not be included
+in the SEC Filing.
+
+Period                       12/31/04
+Client                       Tiger Technology Management, LLC
+Use Adjustments              No
+Combine Funds                No
+Report Data Records                            43
+               Total Records                   43
+               Total Omitted                    0
+Report Market Value x($1000)               645499
+Other Managers Included                         0
+
+Omitted Records (positions with quantity less than 10,000 and market value
+less than $200,000)
+
+                     Omitted Records
+     Cusip             Desciption              Quantity    Market Value
+
+
+Export
+
+BrowserMicrosoft WordMicrosoft Excel
+
+Actions
+
+  1. Go Back to Client List
+
+  ------------------------------------------------------------------------
+13F Help
+  ------------------------------------------------------------------------
+http://pisas62/cgi-bin-local/cli_sys/restricted/apps/13f/prod/run_report.pl
+(capolong)
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,173 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OBjbDvSeCgin5tBTpsKCG32NQgbzzA83E7nSi9lZfBInjn+4OwOo2qHJ46opomXh
+ 1qlaP+0FJP9FCUgugDuOGA==
+
+<SEC-DOCUMENT>0000919574-10-006610.txt : 20101115
+<SEC-HEADER>0000919574-10-006610.hdr.sgml : 20101115
+<ACCEPTANCE-DATETIME>20101115155600
+ACCESSION NUMBER:		0000919574-10-006610
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100930
+FILED AS OF DATE:		20101115
+DATE AS OF CHANGE:		20101115
+EFFECTIVENESS DATE:		20101115
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER GLOBAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		101192243
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129848847
+
+	MAIL ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGER TECHNOLOGY MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20020214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1147574_13f-hr.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+       Report for the Calendar Year or Quarter Ended: September 30, 2010
+
+Check here if Amendment           [_]; Amendment Number:
+This amendment (Check only one.): [_] is a restatement.
+                                  [_] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:     Tiger Global Management, L.L.C.
+Address:  101 Park Avenue, 48th Floor
+          New York, NY 10178
+
+13 File Number: 28-10100
+
+The institutional investment manager filing this report and the
+person by whom it is signed hereby represent that the person
+signing the report is authorized to submit it, that all
+information contained herein is true, correct, and complete, and
+and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of
+this form
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Charles P. Coleman III
+Title:     Managing Member
+Phone:     212-984-2500
+Signature, Place and Date of Signing:
+
+    /s/ Charles P. Coleman III     New York, New York     November 15, 2010
+    ----------------------------   -------------------   ------------------
+            [Signature]               [City, State]           [Date]
+
+<PAGE>
+
+Report Type (Check only one.):
+
+[X]   13F HOLDINGS REPORT.
+[_]   13F NOTICE.
+[_]   13F COMBINATION REPORT.
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934
+
+<PAGE>
+                           FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:            0
+
+Form 13F Information Table Entry Total:      34
+
+Form 13F Information Table Value Total:      4,651,600
+
+<PAGE>
+
+<TABLE>
+
+                                                                FORM 13F INFORMATION TABLE
+
+                                                            VALUE      SHARES/   SH/  PUT/  INVSTMT   OTHR        VOTING AUTHORITY
+NAME OF ISSUER                TITLE OF CLASS     CUSIP     X($1000)    PRN AMT   PRN  CALL  DISCRETN  MGRS    SOLE      SHARED  NONE
+- ----------------------------  --------------   ---------   --------   ---------  ---  ----  --------  ----  ----------  ------  ----
+<S>                           <C>              <C>         <C>        <C>        <C>  <C>   <C>       <C>   <C>         <C>     <C>
+AMAZON COM INC                COM              023135106   130,360      830,000  SH          SOLE     NONE     830,000    0      0
+APOLLO GROUP INC              CL A             037604105   165,193    3,217,000  SH          SOLE     NONE   3,217,000    0      0
+APOLLO GROUP INC              CL A             037604105   173,892    3,386,400       CALL   SOLE     NONE   3,386,400    0      0
+APPLE INC                     COM              037833100   356,363    1,255,904  SH          SOLE     NONE   1,255,904    0      0
+CABLEVISION SYS CORP          CL A NY CABLVS   12686C109   189,644    7,241,080  SH          SOLE     NONE   7,241,080    0      0
+CNINSURE INC                  SPONSORED ADR    18976M103    20,916      900,000  SH          SOLE     NONE     900,000    0      0
+COMMSCOPE INC                 COM              203372107    30,373    1,279,395  SH          SOLE     NONE   1,279,395    0      0
+COMPANIA CERVECERIAS UNIDAS   SPONSORED ADR    204429104    27,235      489,396  SH          SOLE     NONE     489,396    0      0
+DIRECTV                       COM CL A         25490A101   312,575    7,508,400  SH          SOLE     NONE   7,508,400    0      0
+DISCOVERY COMMUNICATNS NEW    COM SER C        25470F302   153,199    4,011,499  SH          SOLE     NONE   4,011,499    0      0
+DUOYUAN GLOBAL WTR INC        SPONSORED ADR    266043108    11,336      870,000  SH          SOLE     NONE     870,000    0      0
+ELECTRONIC ARTS INC           COM              285512109   113,488    6,900,000  SH          SOLE     NONE   6,900,000    0      0
+ELECTRONIC ARTS INC           COM              285512109   100,330    6,100,000       CALL   SOLE     NONE   6,100,000    0      0
+GENPACT LIMITED               SHS              G3922B107    79,200    4,467,000  SH          SOLE     NONE   4,467,000    0      0
+GREEN DOT CORP                CL A             39304D102     4,848      100,000  SH          SOLE     NONE     100,000    0      0
+IAC INTERACTIVECORP           COM PAR $.001    44919P508    27,505    1,047,000  SH          SOLE     NONE   1,047,000    0      0
+LIBERTY GLOBAL INC            COM SER A        530555101   167,144    5,425,000  SH          SOLE     NONE   5,425,000    0      0
+LIBERTY MEDIA CORP NEW        CAP COM SER A    53071M302   138,821    2,666,563  SH          SOLE     NONE   2,666,563    0      0
+LIVE NATION ENTERTAINMENT IN  COM              538034109   118,070    1,950,393  SH          SOLE     NONE   1,950,393    0      0
+LOCKHEED MARTIN CORP          COM              539830109   105,993    1,487,000  SH          SOLE     NONE   1,487,000    0      0
+LONGTOP FINL TECHNOLOGIES LT  ADR              54318P108    86,868    2,207,570  SH          SOLE     NONE   2,207,570    0      0
+MAKEMYTRIP LIMITED MAURITIUS  SHS              V5633W109   160,152    4,129,760  SH          SOLE     NONE   4,129,760    0      0
+MASTERCARD INC                CL A             57636Q104   121,632      543,000  SH          SOLE     NONE     543,000    0      0
+MERCADOLIBRE INC              COM              58733R102   273,886    3,794,484  SH          SOLE     NONE   3,794,484    0      0
+NIKE INC                      CL B             654106103    41,113      513,019  SH          SOLE     NONE     513,019    0      0
+POWER ONE INC NEW             COM              73930R102    12,272    1,350,000  SH          SOLE     NONE   1,350,000    0      0
+POWERSHARES QQQ TRUST         UNIT SER 1       73935A104   547,131   11,150,000       PUT    SOLE     NONE  11,150,000    0      0
+PRICELINE COM INC             COM  NEW         741503403   193,155      554,500  SH          SOLE     NONE     554,500    0      0
+RUBICON TECHNOLOGY INC        COM              78112T107     4,538      200,000  SH          SOLE     NONE     200,000    0      0
+SEARS HLDGS CORP              COM              812350106    14,428      200,000  SH          SOLE     NONE     200,000    0      0
+SPDR S&P 500 ETF TR           TR UNIT          78462F103   247,070    2,165,000       PUT    SOLE     NONE   2,165,000    0      0
+TRANSDIGM GROUP INC           COM              893641100   118,981    1,917,500  SH          SOLE     NONE   1,917,500    0      0
+VIACOM INC NEW                CL B             92553P201   315,396    8,715,000  SH          SOLE     NONE   8,715,000    0      0
+XEROX CORP                    COM              984121103    88,493    8,550,000  SH          SOLE     NONE   8,550,000    0      0
+</TABLE>
+
+
+SK 03559 0004 1147574
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

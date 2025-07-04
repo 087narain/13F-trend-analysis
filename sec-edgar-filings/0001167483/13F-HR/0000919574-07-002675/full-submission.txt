@@ -1,0 +1,190 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EOVsKolxnnHdcZoOQKSO2ix2XeJBgPbFFWk8QsmsBoNzVGtlY9aa4drkp2/xt+VN
+ 127l+j7MZcyGJe/YhzVDsA==
+
+<SEC-DOCUMENT>0000919574-07-002675.txt : 20070515
+<SEC-HEADER>0000919574-07-002675.hdr.sgml : 20070515
+<ACCEPTANCE-DATETIME>20070515093110
+ACCESSION NUMBER:		0000919574-07-002675
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20070331
+FILED AS OF DATE:		20070515
+DATE AS OF CHANGE:		20070515
+EFFECTIVENESS DATE:		20070515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER GLOBAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		07849667
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129848847
+
+	MAIL ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGER TECHNOLOGY MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20020214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d772401_13f-hr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+         Report for the Calendar Year or Quarter Ended: March 31, 2007
+
+Check here if Amendment                 [_]; Amendment Number:
+This amendment (Check only one):        [_] is a restatement.
+                                        [_] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:     Tiger Global Management, LLC
+Address:  101 Park Avenue, 48th Floor
+          New York, NY 10178
+
+13 File Number: 28-10100
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct, and
+complete, and and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Charles P. Coleman III
+Title:     Managing Member
+Phone:     212-984-2500
+
+
+Signature, Place and Date of Signing:
+
+/s/ Charles P. Coleman III       New York, New York             May 15, 2007
+- ---------------------------    ----------------------      ---------------------
+     [Signature]                   [City, State]                  [Date]
+
+<PAGE>
+
+Report Type (Check only one.):
+
+[X]  13F HOLDINGS REPORT.
+
+[_]  13F NOTICE.
+
+[_]  13F COMBINATION REPORT.
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE
+ACT OF 1934
+
+<PAGE>
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:                 0
+
+Form 13F Information Table Entry Total:           46
+
+Form 13F Information Table Value Total:   $2,113,252
+                                         (in thousands)
+
+<PAGE>
+
+<TABLE>
+
+                                                     FORM 13F INFORMATION TABLE
+<CAPTION>
+
+                                                            VALUE   SHARES/ SH/ PUT/ INVSTMT   OTHER        VOTING AUTHORITY
+         NAME OF ISSUER        TITLE OF CLASS     CUSIP   x($1000) PRN AMT  PRN CALL DISCRETN MANAGERS   SOLE    SHARED    NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- -------- --------- -------- -------- --------
+<S>                            <C>              <C>        <C>      <C>     <C> <C>  <C>      <C>        <C>          <C>      <C>
+AMERICAN TOWER CORP            CL A             029912201   255902  6570000 SH       SOLE     NONE       6570000
+AMERICA MOVIL SAB DE CV        SPON ADR L SHS   02364W105   273837  5730000 SH       SOLE     NONE       5730000
+AMERICAN SCIENCE & ENGR INC    COM              029429107    20541   390000 SH       SOLE     NONE        390000
+BAIDU COM INC                  SPON ADR REP A   056752108    91497   947662 SH       SOLE     NONE        947662
+CAL MAINE FOODS INC            COM NEW          128030202    13450  1000000 SH       SOLE     NONE       1000000
+CELLCOM ISRAEL LTD             SHS              M2196U109      204    11200 SH       SOLE     NONE         11200
+COMCAST CORP NEW               CL A SPL         20030N200   111177  4364999 SH       SOLE     NONE       4364999
+CREE INC                       COM              225447101    13580   825000 SH       SOLE     NONE        825000
+CROCS INC                      COM              227046109    33075   700000 SH       SOLE     NONE        700000
+DIVX INC                       COM              255413106    17335   865000 SH       SOLE     NONE        865000
+ECOLLEGE COM                   COM              27887E100    36049  2008306 SH       SOLE     NONE       2008306
+NEW ORIENTAL ED & TECH GRP I   SPON ADR         647581107      811    20000 SH       SOLE     NONE         20000
+FOCUS MEDIA HLDG LTD           SPONSORED ADR    34415V109    97683  1245000 SH       SOLE     NONE       1245000
+FORCE PROTECTION INC           COM NEW          345203202    24956  1330300 SH       SOLE     NONE       1330300
+FUEL SYS SOLUTIONS INC         COM              35952W103    12964   700000 SH       SOLE     NONE        700000
+GOOGLE INC                     CL A             38259P508   157942   344732 SH       SOLE     NONE        344732
+GLOBALSTAR INC                 COM              378973408     4611   435000 SH       SOLE     NONE        435000
+HORIZON LINES INC              COM              44044K101    40201  1224900 SH       SOLE     NONE       1224900
+HOUSTON WIRE & CABLE CO        COM              44244K109    27600   985000 SH       SOLE     NONE        985000
+INPHONIC INC                   COM              45772G105    13189  1210000 SH       SOLE     NONE       1210000
+LAMSON & SESSIONS CO           COM              513696104    12506   450000 SH       SOLE     NONE        450000
+LA Z BOY INC                   COM              505336107    15042  1215000 SH       SOLE     NONE       1215000
+MEDIVATION INC                 COM              58501N101    18860  1000000 SH       SOLE     NONE       1000000
+MARTIN MARIETTA MATLS INC      COM              573284106    98466   728300 SH       SOLE     NONE        728300
+NIKE INC                       CL B             654106103    73319   690000 SH       SOLE     NONE        690000
+NUTRI SYS INC NEW              COM              67069D108    44050   840483 SH       SOLE     NONE        840483
+ORBCOMM INC                    COM              68555P100    19763  1550000 SH       SOLE     NONE       1550000
+PARLUX FRAGRANCES INC          COM              701645103     4816   863116 SH       SOLE     NONE        863116
+PROVIDENCE SVC CORP            COM              743815102    13402   565000 SH       SOLE     NONE        565000
+PREMIER EXIBITIONS INC         COM              74051E102    15405  1300000 SH       SOLE     NONE       1300000
+QUALCOMM INC                   COM              747525103    33701   790000 SH       SOLE     NONE        790000
+BANKRATE INC                   COM              06646V108    26430   750000 SH       SOLE     NONE        750000
+REDIFF COM INDIA LTD           SPONSORED ADR    757479100    16670  1000000 SH       SOLE     NONE       1000000
+SBA COMMUNICATIONS CORP        COM              78388J106    95742  3240000 SH       SOLE     NONE       3240000
+SHUTTERFLY INC                 COM              82568P304    17644  1100000 SH       SOLE     NONE       1100000
+SINA CORP                      ORD              G81477104    67945  2021575 SH       SOLE     NONE       2021575
+SIERRA WIRELESS INC            COM              826516106    18828  1200000 SH       SOLE     NONE       1200000
+SYSTEMAX INC                   COM              871851101    20509  1095000 SH       SOLE     NONE       1095000
+TELKONET INC                   COM              879604106     2252   837100 SH       SOLE     NONE        837100
+TECHNICAL OLYMPIC USA INC      COM              878483106    11172  2800000 SH       SOLE     NONE       2800000
+TEMPUR PEDIC INTL INC          COM              88023U101     4258   163836 SH       SOLE     NONE        163836
+TRANSACTION SYS ARCHITECTS     COM              893416107     6716   207345 SH       SOLE     NONE        207345
+UNITEDHEALTH GROUP INC         COM              91324P102   110919  2094000 SH       SOLE     NONE       2094000
+UTSTARCOM INC                  COM              918076100    47440  5722500 SH       SOLE     NONE       5722500
+WNS HOLDINGS LTD               SPON ADR         92932M101    67308  2309816 SH       SOLE     NONE       2309816
+ZIX CORP                       COM              98974P100     3485  1925350 SH       SOLE     NONE       1925350
+
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

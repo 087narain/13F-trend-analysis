@@ -1,0 +1,168 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PA7NATUge07etm6iL0jwSvWGZWKLm8WwmIX2kWduFhMtPKIVHcNsveHn+IMfRcoL
+ avp/HmeFGJ+LB6KWkdQpZA==
+
+<SEC-DOCUMENT>0000919574-10-001195.txt : 20100216
+<SEC-HEADER>0000919574-10-001195.hdr.sgml : 20100215
+<ACCEPTANCE-DATETIME>20100216103938
+ACCESSION NUMBER:		0000919574-10-001195
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20091231
+FILED AS OF DATE:		20100216
+DATE AS OF CHANGE:		20100216
+EFFECTIVENESS DATE:		20100216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER GLOBAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		10603194
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129848847
+
+	MAIL ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGER TECHNOLOGY MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20020214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1072318_13f-hr.txt
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+        Report for the Calendar Year or Quarter Ended: December 31, 2009
+
+Check here if Amendment           [_]; Amendment Number:
+This amendment (Check only one.): [_] is a restatement.
+                                  [_] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+Name:     Tiger Global Management, L.L.C.
+Address:  101 Park Avenue, 48th Floor
+          New York, NY 10178
+
+13 File Number: 28-10100
+
+The  institutional  investment manager filing this report and the person by whom
+it  is  signed hereby represent that the person signing the report is authorized
+to  submit  it,  that  all  information  contained  herein is true, correct, and
+complete,  and  and  that  it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Charles P. Coleman III
+Title:    Managing Member
+Phone:    212-984-2500
+
+
+Signature, Place and Date of Signing:
+
+Charles P. Coleman III              New York, NY              February 16, 2010
+- ----------------------           ------------------         --------------------
+  [Signature]                      [City, State]                   [Date]
+
+<PAGE>
+
+Report Type (Check only one.):
+
+[X]   13F HOLDINGS REPORT.
+
+[_]   13F NOTICE.
+
+[_]   13F COMBINATION REPORT.
+
+<PAGE>
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:            0
+
+Form 13F Information Table Entry Total:      30
+
+Form 13F Information Table Value Total:      $3,384,269
+                                             (thousands)
+
+List of Other Managers Reporting for this Manager: NONE
+
+<PAGE>
+<TABLE>
+                                                     FORM 13F INFORMATION TABLE
+<CAPTION>
+
+                                                            VALUE   SHARES/ SH/ PUT/ INVSTMT   OTHER        VOTING AUTHORITY
+           NAME OF ISSUER       TITLE OF CLASS    CUSIP   x($1000) PRN AMT  PRN CALL DISCRETN MANAGERS   SOLE      SHARED    NONE
+  ----------------------------- --------------- --------- -------- -------- --- ---- -------- --------- --------   -------- --------
+<S>                             <C>             <C>        <C>     <C>      <C> <C>  <C>      <C>       <C>          <C>      <C>
+D APOLLO GROUP INC              CL A            037604105   314,077  5,184,500 SH    SOLE     NONE       5,184,500   0        0
+D APPLE INC                     COM             037833100    77,107    365,900 SH    SOLE     NONE         365,900   0        0
+D CABLEVISION SYS CORP          CL A NY CABLVS  12686C109    58,672  2,272,330 SH    SOLE     NONE       2,272,330   0        0
+D DIRECTV                       COM CL A        25490A101   377,055 11,306,000 SH    SOLE     NONE      11,306,000   0        0
+D DISCOVERY COMMUNICATNS NEW    COM SER A       25470F104    21,501    701,047 SH    SOLE     NONE         701,047   0        0
+D DISCOVERY COMMUNICATNS NEW    COM SER C       25470F302    80,301  3,027,952 SH    SOLE     NONE       3,027,952   0        0
+D E TRADE FINANCIAL CORP        COM             269246104    79,425 45,128,000 SH    SOLE     NONE      45,128,000   0        0
+D EBIX INC                      COM NEW         278715206    22,950    470,000 SH    SOLE     NONE         470,000   0        0
+D GOOGLE INC                    CL A            38259P508   180,365    290,920 SH    SOLE     NONE         290,920   0        0
+D GUSHAN ENVIRONMENTAL ENRGY L  SPON ADR        40330W106     2,251  1,704,961 SH    SOLE     NONE       1,704,961   0        0
+D HARBIN ELECTRIC INC           COM             41145W109    24,648  1,200,000 SH    SOLE     NONE       1,200,000   0        0
+D HEWLETT PACKARD CO            COM             428236103    20,707    402,000 SH    SOLE     NONE         402,000   0        0
+D IAC INTERACTIVECORP           COM PAR $.001   44919P508   121,319  5,923,776 SH    SOLE     NONE       5,923,776   0        0
+D IMS HEALTH INC                COM             449934108    25,799  1,225,039 SH    SOLE     NONE       1,225,039   0        0
+D LIBERTY GLOBAL INC            COM SER A       530555101    33,677  1,538,476 SH    SOLE     NONE       1,538,476   0        0
+D LOCKHEED MARTIN CORP          COM             539830109   109,182  1,449,000 SH    SOLE     NONE       1,449,000   0        0
+D LONGTOP FINL TECHNOLOGIES LT  ADR             54318P108   101,456  2,740,566 SH    SOLE     NONE       2,740,566   0        0
+D LORILLARD INC                 COM             544147101   137,842  1,718,084 SH    SOLE     NONE       1,718,084   0        0
+D MASTERCARD INC                CL A            57636Q104   258,105  1,008,300 SH    SOLE     NONE       1,008,300   0        0
+D MCDONALDS CORP                COM             580135101    44,957    720,000 SH    SOLE     NONE         720,000   0        0
+D MERCADOLIBRE INC              COM             58733R102   174,612  3,366,343 SH    SOLE     NONE       3,366,343   0        0
+D MONSANTO CO NEW               COM             61166W101   208,491  2,550,344 SH    SOLE     NONE       2,550,344   0        0
+D PEPSICO INC                   COM             713448108   243,291  4,001,500 SH    SOLE     NONE       4,001,500   0        0
+D PRICELINE COM INC             COM NEW         741503403   110,952    508,000 SH    SOLE     NONE         508,000   0        0
+D QUALCOMM INC                  COM             747525103   130,916  2,830,000 SH    SOLE     NONE       2,830,000   0        0
+D TERADATA CORP DEL             COM             88076W103    25,174    800,942 SH    SOLE     NONE         800,942   0        0
+D TRANSDIGM GROUP INC           COM             893641100   149,942  3,157,329 SH    SOLE     NONE       3,157,329   0        0
+D VISA INC                      COM CL A        92826C839   128,886  1,473,655 SH    SOLE     NONE       1,473,655   0        0
+D WESTERN UN CO                 COM             959802109    16,068    852,400 SH    SOLE     NONE         852,400   0        0
+D YAHOO INC                     COM             984332106   104,541  6,230,095 SH    SOLE     NONE       6,230,095   0        0
+</TABLE>
+
+SK 03559 0005 #1072318
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

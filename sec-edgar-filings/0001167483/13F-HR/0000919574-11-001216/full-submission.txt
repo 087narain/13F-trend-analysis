@@ -1,0 +1,199 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DKAAuXJVFf+cEaJlwQkqPe4UDCzlswS0SHjUef7he4+IqEt9YTBeFEoGrNhxqSNo
+ uhsQRFKo8irnNN5CmnIbeQ==
+
+<SEC-DOCUMENT>0000919574-11-001216.txt : 20110214
+<SEC-HEADER>0000919574-11-001216.hdr.sgml : 20110214
+<ACCEPTANCE-DATETIME>20110214131909
+ACCESSION NUMBER:		0000919574-11-001216
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20101231
+FILED AS OF DATE:		20110214
+DATE AS OF CHANGE:		20110214
+EFFECTIVENESS DATE:		20110214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER GLOBAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		11604600
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129848847
+
+	MAIL ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGER TECHNOLOGY MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20020214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1171493_13f-hr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F Cover Page
+
+
+
+        Report for the Calendar Year or Quarter Ended: December 31, 2010
+
+Check here if Amendment:           |_|; Amendment Number: ____
+
+This Amendment (Check only one):   |_| is a restatement
+                                   |_| adds new holding entries.
+
+Institutional Manager Filing this Report:
+
+Name:     Tiger Global Management, L.L.C.
+
+Address:  101 Park Avenue, 48th Floor
+          New York, New York 10178
+
+
+13F File Number: 28-10100
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:   Charles P. Coleman III
+Title:  Managing Member
+Phone:  212-984-2500
+
+
+Signature, Place and Date of Signing:
+
+/s/ Charles P. Coleman III       New York, New York         February 14, 2011
+- --------------------------     ------------------------    --------------------
+     [Signature]                   [City, State]                   [Date]
+<PAGE>
+
+Report Type:  (Check only one):
+
+[X]      13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+         manager are reported in this report).
+
+[_]      13F NOTICE.  (Check here if no holdings reported are in this report,
+         and all holdings are reported by other reporting managers(s).)
+
+[_]      13F COMBINATION REPORT.  (Check here if a portion of the holdings for
+         this reporting manager are reported in this report and a portion are
+         reported by other reporting manager(s).)
+
+
+List of Other Managers Reporting for this Manager:  NONE
+<PAGE>
+
+                             Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+
+Number of Other Included Managers:            0
+
+Form 13F Information Table Entry Total:       30
+
+Form 13F Information Table Value Total:       $3,716,786
+                                             (thousands)
+
+
+List of Other Included Managers:  NONE
+
+<PAGE>
+
+<TABLE>
+
+
+                                                                FORM 13F INFORMATION TABLE
+<CAPTION>
+                                                          VALUE    SHARES/  SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+         NAME OF ISSUER        TITLE OF CLASS     CUSIP   x($1000) PRN AMT  PRN CALL DISCRETN MANAGERS      SOLE     SHARED    NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- -------- ---------   --------  -------- -------
+<S>                            <C>              <C>         <C>    <C>      <C> <C>  <C>       <C>      <C>          <C>      <C>
+AMAZON COM INC                 COM              023135106   180000  1000000 SH       SOLE      NONE       1000000
+APPLE INC                      COM              037833100   365300  1132504 SH       SOLE      NONE       1132504
+BAIDU INC                      SPON ADR REP A   056752108    53188   551000 SH       SOLE      NONE        551000
+CABLEVISION SYS CORP           CL A NY CABLVS   12686C109   213441  6307344 SH       SOLE      NONE       6307344
+COMMSCOPE INC                  COM              203372107    11069   354541 SH       SOLE      NONE        354541
+COMPANIA CERVECERIAS UNIDAS    SPONSORED ADR    204429104    29535   489396 SH       SOLE      NONE        489396
+CTRIP COM INTL LTD             AMERICAN DEP SHS 22943F100    53232  1316000 SH       SOLE      NONE       1316000
+DIRECTV                        COM CL A         25490A101   252573  6325400 SH       SOLE      NONE       6325400
+DISCOVERY COMMUNICATNS NEW     COM SER C        25470F302   147182  4011499 SH       SOLE      NONE       4011499
+DUOYUAN GLOBAL WTR INC         SPONSORED ADR    266043108    14941  1170000 SH       SOLE      NONE       1170000
+ELECTRONIC ARTS INC            COM              285512109   131040  8000000 SH       SOLE      NONE       8000000
+ELECTRONIC ARTS INC            COM              285512109    99918  6100000     CALL SOLE      NONE       6100000
+GENPACT LIMITED                SHS              G3922B107    63822  4198790 SH       SOLE      NONE       4198790
+IAC INTERACTIVECORP            COM PAR $.001    44919P508    27179   947000 SH       SOLE      NONE        947000
+LIBERTY GLOBAL INC             COM SER A        530555101   235808  6665000 SH       SOLE      NONE       6665000
+LIBERTY GLOBAL INC             COM SER C        530555309    37679  1111800 SH       SOLE      NONE       1111800
+LIBERTY MEDIA CORP NEW         CAP COM SER A    53071M302   223435  3571538 SH       SOLE      NONE       3571538
+LIVE NATION ENTERTAINMENT IN   COM              538034109   136473 11950393 SH       SOLE      NONE      11950393
+LONGTOP FINL TECHNOLOGIES LT   ADR              54318P108    93596  2586953 SH       SOLE      NONE       2586953
+MAKEMYTRIP LIMITED MAURITIUS   SHS              V5633W109   111627  4129760 SH       SOLE      NONE       4129760
+MASTERCARD INC                 CL A             57636Q104   157549   703000 SH       SOLE      NONE        703000
+MERCADOLIBRE INC               COM              58733R102   218166  3273552 SH       SOLE      NONE       3273552
+POWER ONE INC NEW              COM              73930R102     8905   873000 SH       SOLE      NONE        873000
+PRICELINE COM INC              COM  NEW         741503403   182395   456500 SH       SOLE      NONE        456500
+RUBICON TECHNOLOGY INC         COM              78112T107     4216   200000 SH       SOLE      NONE        200000
+SEARS HLDGS CORP               COM              812350106    18438   250000 SH       SOLE      NONE        250000
+TRANSDIGM GROUP INC            COM              893641100    97466  1353500 SH       SOLE      NONE       1353500
+VIACOM INC NEW                 CL B             92553P201   294976  7447000 SH       SOLE      NONE       7447000
+VISA INC                       COM CL A         92826C839   144279  2050000 SH       SOLE      NONE       2050000
+XEROX CORP                     COM              984121103   109359  9493000 SH       SOLE      NONE       9493000
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

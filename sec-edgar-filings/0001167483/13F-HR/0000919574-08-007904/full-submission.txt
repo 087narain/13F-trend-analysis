@@ -1,0 +1,202 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ S/Z8SoCNU/CZB/oL3jivbyOpzNVDjiub3rcTs5fIQ2pI92LRyI1I4MiOlmh6IrLP
+ 4ZHr2MObF3HIykb+eEl6Rw==
+
+<SEC-DOCUMENT>0000919574-08-007904.txt : 20081114
+<SEC-HEADER>0000919574-08-007904.hdr.sgml : 20081114
+<ACCEPTANCE-DATETIME>20081113180905
+ACCESSION NUMBER:		0000919574-08-007904
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20080930
+FILED AS OF DATE:		20081114
+DATE AS OF CHANGE:		20081113
+EFFECTIVENESS DATE:		20081114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER GLOBAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		081186413
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129848847
+
+	MAIL ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGER TECHNOLOGY MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20020214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d937146_13f-hr.txt
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: September 30, 2008
+
+Check here if Amendment           [ ]; Amendment Number:
+This amendment (Check only one.): [ ] is a restatement.
+                                  [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:     Tiger Global Management, L.L.C.*
+
+Address:  101 Park Avenue, 48th Floor
+          New York, NY 10178
+
+13 File Number: 28-10100
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct, and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Charles P. Coleman III
+Title:     Managing Member
+Phone:     212-984-2500
+
+Signature, Place and Date of Signing:
+
+
+/s/ Charles P. Coleman         New York, New York           November 14, 2008
+- ------------------------     ------------------------     -------------------
+      [Signature]                 [City, State]                   [Date]
+
+
+* On September 15, 2008 Lehman Brothers International (Europe) ("LBIE") and
+certain other Lehman entities were placed into administration under United
+Kingdom law (Insolvency Act 1986). This filing does not include securities that
+were held in the reporting person's account at LBIE because the reporting person
+does not currently have access to these securities and at this time it is
+unclear whether and under what conditions or circumstances the reporting person
+will reacquire them. By making this filing, the reporting person does not waive
+any rights or arguments concerning its entitlement to recover such securities
+and expressly reserves all rights and arguments with respect thereto.
+
+
+<PAGE>
+
+Report Type (Check only one.):
+[X]        13F HOLDINGS REPORT.
+[_]        13F NOTICE.
+[_]        13F COMBINATION REPORT.
+
+List of Other Managers Reporting for this Manager: NONE
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934.
+
+<PAGE>
+
+
+                           FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:            0
+
+Form 13F Information Table Entry Total:       45
+
+Form 13F Information Table Value Total:       $3,374,490
+                                              (thousands)
+
+
+<PAGE>
+
+<TABLE>
+                                                   FORM 13F INFORMATION TABLE
+
+<CAPTION>
+COLUMN 1                        COLUMN  2       COLUMN 3   COLUMN 4        COLUMN 5        COLUMN 6   COLUMN 7        COLUMN 8
+
+                                 TITLE OF                   VALUE     SHRS OR   SH/ PUT/  INVESTMENT  OTHER       VOTING AUTHORITY
+NAME OF ISSUER                    CLASS           CUSIP    (X$1000)   PRN AMT   PRN CALL  DISCRETION  MANAGERS   SOLE  SHARED  NONE
+<S>                             <C>             <C>         <C>      <C>        <C> <C>     <C>        <C>     <C>
+A POWER ENERGY GENERAT SYS L    COM             G04136100     8065     900060   SH          SOLE       NONE      900060   0      0
+AMBAC FINL GROUP INC            COM             023139108     9320    4000000   SH          SOLE       NONE     4000000   0      0
+AMERICA MOVIL SAB DE CV         SPON ADR L SHS  02364W105   122228    2636500   SH          SOLE       NONE     2636500   0      0
+AMERICAN TOWER CORP             CL A            029912201   403455   11216435   SH          SOLE       NONE    11216435   0      0
+APPLE INC                       COM             037833100   124045    1091365   SH          SOLE       NONE     1091365   0      0
+BEAZER HOMES USA INC            COM             07556Q105       61      10159   SH          SOLE       NONE       10159   0      0
+CAVIUM NETWORKS INC             COM             14965A101    27456    1950000   SH          SOLE       NONE     1950000   0      0
+CHINA SEC & SURVE TECH INC      COM             16942J105     3082     222031   SH          SOLE       NONE      222031   0      0
+COACH INC                       COM             189754104    83215    3323300   SH          SOLE       NONE     3323300   0      0
+COLONIAL BANCGROUP INC          COM             195493309    14934    1900000   SH          SOLE       NONE     1900000   0      0
+COMERICA INC                    COM             200340107    18035     550000   SH          SOLE       NONE      550000   0      0
+CSX CORP                        COM             126408103   400609    7341200   SH          SOLE       NONE     7341200   0      0
+DATA DOMAIN INC                 COM             23767P109    34519    1550000   SH          SOLE       NONE     1550000   0      0
+DISCOVERY HOLDING CO            CL A COM        25468Y107    23592    1655547   SH          SOLE       NONE     1655547   0      0
+EMCORE CORP                     COM             290846104    12187    2466953   SH          SOLE       NONE     2466953   0      0
+FIFTH STREET FINANCE CORP       COM             31678A103     3658     363975   SH          SOLE       NONE      363975   0      0
+FIRST HORIZON NATL CORP         COM             320517105    37139    3967864   SH          SOLE       NONE     3967864   0      0
+GENERAL MTRS CORP               COM             370442105    42525    4500000   SH          SOLE       NONE     4500000   0      0
+GRACO INC                       COM             384109104      904      25392   SH          SOLE       NONE       25392   0      0
+GUSHAN ENVIRONMENTAL ENRGY L    SPON ADR        40330W106    39068    7645363   SH          SOLE       NONE     7645363   0      0
+HOVNANIAN ENTERPRISES INC       CL A            442487203     1987     248748   SH          SOLE       NONE      248748   0      0
+HUNTINGTON BANCSHARES INC       COM             446150104    38352    4800000   SH          SOLE       NONE     4800000   0      0
+ISTAR FINL INC                  COM             45031U101    11050    4250000   SH          SOLE       NONE     4250000   0      0
+LDK SOLAR CO LTD                SPONSORED ADR   50183L107    21014     700000   SH          SOLE       NONE      700000   0      0
+LONGTOP FINL TECHNOLOGIES LT    ADR             54318P108   142072   10083165   SH          SOLE       NONE    10083165   0      0
+LORILLARD INC                   COM             544147101   291735    4100277   SH          SOLE       NONE     4100277   0      0
+MARSHAL & ILSLY CORP NEW        COM             571837103    38285    1900000   SH          SOLE       NONE     1900000   0      0
+MASTERCARD INC                  CL A            57636Q104   344507    1942746   SH          SOLE       NONE     1942746   0      0
+MERCADOLIBRE INC                COM             58733R102    88179    4333097   SH          SOLE       NONE     4333097   0      0
+MEREDITH CORP                   COM             589433101    28040    1000000   SH          SOLE       NONE     1000000   0      0
+QUALCOMM INC                    COM             747525103   175219    4077700   SH          SOLE       NONE     4077700   0      0
+REGIONS FINANCIAL CORP NEW      COM             7591EP100    24000    2500000   SH          SOLE       NONE     2500000   0      0
+SBA COMMUNICATIONS CORP         COM             78388J106    97670    3775400   SH          SOLE       NONE     3775400   0      0
+SERVICE CORP INTL               COM             817565104    30932    3700000   SH          SOLE       NONE     3700000   0      0
+SINA CORP                       ORD             G81477104    82681    2348900   SH          SOLE       NONE     2348900   0      0
+SYNAPTICS INC                   COM             87157D109    32864    1087500   SH          SOLE       NONE     1087500   0      0
+THOR INDS INC                   COM             885160101     7942     320000   SH          SOLE       NONE      320000   0      0
+TRANSDIGM GROUP INC             COM             893641100   136341    3983076   SH          SOLE       NONE     3983076   0      0
+TRUE RELIGION APPAREL INC       COM             89784N104    29728    1150000   SH          SOLE       NONE     1150000   0      0
+UNDER ARMOUR INC                CL A            904311107    14768     465000   SH          SOLE       NONE      465000   0      0
+VISA INC                        COM CL A        92826C839   232788    3791948   SH          SOLE       NONE     3791948   0      0
+VOCUS INC                       COM             92858J108     1528      45000   SH          SOLE       NONE       45000   0      0
+WASHINGTON MUT INC              COM             939322103     1144   13950000   SH          SOLE       NONE    13950000   0      0
+WNS HOLDINGS LTD                SPON ADR        92932M101    30292    3075358   SH          SOLE       NONE     3075358   0      0
+ZIONS BANCORPORATION            COM             989701107    63275    1635000   SH          SOLE       NONE     1635000   0      0
+</TABLE>
+
+
+SK 03559 0005 937146
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

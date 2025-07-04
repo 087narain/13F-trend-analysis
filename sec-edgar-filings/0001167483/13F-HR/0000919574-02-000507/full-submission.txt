@@ -1,0 +1,339 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DHXwfMHCESqzBX6QDBN/SF71RwG2868RVfeSbVWK3Kjrn4dTd/CsNfl/v135KusT
+ cHaVoXUJnXivh2u6ul3YXg==
+
+<SEC-DOCUMENT>0000919574-02-000507.txt : 20020414
+<SEC-HEADER>0000919574-02-000507.hdr.sgml : 20020414
+ACCESSION NUMBER:		0000919574-02-000507
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20011231
+FILED AS OF DATE:		20020214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER TECHNOLOGY MANAGEMENT
+		CENTRAL INDEX KEY:			0001167483
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		02548038
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129842500
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>ti03559001aa0.txt
+<TEXT>
+
+
+
+<PAGE>
+
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C.  20549
+
+                            Form 13F
+
+                       Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:  December 31, 2001
+
+Check here if Amendment [   ]; Amendment Number:
+    This Amendment (Check only one.):  [   ] is a restatement.
+                                       [   ] adds new holdings
+                                             entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Tiger Technology Management, LLC
+Address: 101 Park Avenue, 48th Floor
+         New York, NY 10022
+
+
+Form 13F File Number: 28-
+
+The institutional investment manager filing this report and the
+person by whom it is signed hereby represent that the person
+signing the report is authorized to submit it, that all
+information contained herein is true, correct and complete, and
+that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of
+this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:    Chase Coleman
+Title:   Principal
+Phone:   212-984-2500
+
+Signature, Place, and Date of Signing:
+
+         /s/Chase Coleman        New York, NY          2/14/02
+         _______________________ _____________________ _________
+              [Signature]           [City, State]        [Date]
+
+Report Type (Check only one.):
+
+[X ]     13F HOLDINGS REPORT.  (Check here if all holdings of
+         this reporting manager are reported in this report.)
+
+
+
+
+<PAGE>
+
+[  ]     13F NOTICE.  (Check here if no holdings reported are in
+         this report, and all holdings are reported by other
+         reporting manager(s).)
+
+[  ]     13F COMBINATION REPORT.  (Check here if a portion of the
+         holdings for this reporting manager are reported in this
+         report and a portion are reported by other reporting
+         manager(s).)
+
+List of Other Managers Reporting for this Manager:
+[If there are no entries in this list, omit this section.]
+
+         Form 13F File Number     Name
+
+         28-
+         [Repeat as necessary.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                2
+
+
+
+<PAGE>
+
+                      Form 13F SUMMARY PAGE
+
+Report Summary:
+
+
+Number of Other Included Managers:          None
+
+Form 13F Information Table Entry Total:     42
+
+Form 13F Information Table Value Total:     $106,271
+                                              [thousands]
+
+
+List of Other Included Managers:
+
+
+Provide a numbered list of the name(s) and Form 13F file
+number(s) of all institutional investment managers with respect
+to which this report is filed, other than the manager filing this
+report.
+
+[If there are no entries in this list, state NONE and omit the
+column headings and list entries.]
+
+         No.       Form 13F File Number     Name
+
+                   28-
+
+         [Repeat as necessary.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                3
+
+
+
+<PAGE>
+
+<TABLE>
+                   Form 13F INFORMATION TABLE
+                        December 31, 2001
+<CAPTION>
+
+  COLUMN 1               COLUMN 2  COLUMN 3     COLUMN 4      COLUMN 5        COLUMN 6      COLUMN 7         COLUMN 8
+
+                                                          SHRS
+                         TITLE                  MARKET    OR       SH/ PUT/   INVESTMENT     OTHER      VOTING AUTHORITY
+NAME OF ISSUER           OF CLASS  CUSIP        VALUE     PRN AMT  PRN CALL   DISCRETION     MGRS   SOLE     SHARED    NONE
+- --------------           --------  -----        -------   -------  --------   ----------     -----  ----------------------
+<s>                      <c>       <c>          <c>       <c>     <c>  <c>    <c>            <c>    <c>      <c>       <c>
+
+ACCENTURE LTD            Class A   G1150G111    6,878,060   255,500  SH       Sole           None   Sole
+APPLIED MATERIALS INC    Common    038222105      657,640    16,400  SH       Sole           None   Sole
+AMERICAN TOWER CORP      Class A   029912201    1,373,150   145,000  SH       Sole           None   Sole
+ALLIANT TECHSYSTEMS
+  INC.                   Common    018804104    2,725,160    35,300  SH       Sole           None   Sole
+BEA SYSTEMS INC          Common    073325102      462,000    30,000  SH       Sole           None   Sole
+COMCAST                  Class A
+                         SPL       200300200    2,772,000    77,000  SH       Sole           None   Sole
+CREE RESH INC            Common    225447101    5,314,584   180,400  SH       Sole           None   Sole
+CSGS SYSTEMS
+  INTL INC               Common    126349109    1,253,950    31,000  SH       Sole           None   Sole
+DELL COMPUTER            Common    247025109    2,394,558    88,100  SH       Sole           None   Sole
+ECHOSTAR COMMUNICATIONS  Class A   278762109    3,494,184   127,200  SH       Sole           None   Sole
+ELECTRONIC DATA SYSTEMS
+  CORP                   Common    285661104    4,736,805    69,100  SH       Sole           None   Sole
+EMULEX CORP              Common
+                         New       292475209    1,394,703    35,300  SH       Sole           None   Sole
+FALCONSTOR SOFTWARE INC  Common    306137100      469,308    51,800  SH       Sole           None   Sole
+FUELCELL ENERGY INC      Common    35952H106      725,600    40,000  SH       Sole           None   Sole
+GENERAL DYNAMICS         Common    369550108    4,117,388    51,700  SH       Sole           None   Sole
+CLEARSTONE COMM INC
+  (formerly GETNER COM   Common    37245J105      850,680    51,000  SH       Sole           None   Sole
+HNC SOFTWARE             Common    40425P107    5,772,120   280,200  SH       Sole           None   Sole
+INTERNATIONAL BUSINESS
+  MACHINES               Common    459200101    4,608,576    38,100  SH       Sole           None   Sole
+INTEL CORP.              Common    458140100    2,157,470    68,600  SH       Sole           None   Sole
+ISS GROUP INC            Common    450306105    2,045,428    63,800  SH       Sole           None   Sole
+I2 TECHNOLOGIES INC      Common    465754109    1,698,500   215,000  SH       Sole           None   Sole
+JDS UNIPHASE CORP        Common    46612J101      254,324    29,300  SH       Sole           None   Sole
+LEXMARK INTERNATIONAL
+  INC. CL A              Class A   529771107    4,548,900    77,100  SH       Sole           None   Sole
+McDATA CORP              Class A   580031201    3,584,350   146,300  SH       Sole           None   Sole
+MCSi INC                 Common    55270M108    1,149,050    49,000  SH       Sole           None   Sole
+MICROSOFT CORP.          Common    594918104    4,180,375    63,100  SH       Sole           None   Sole
+MICRON TECHNOLOGY INC.   Common    595112103    2,349,800    75,800  SH       Sole           None   Sole
+
+
+
+
+
+                                4
+
+
+
+<PAGE>
+
+MAXIM INTEGRATED
+  PRODUCTS               Common    57772K101    1,118,463    21,300  SH       Sole           None   Sole
+NETWORK ASSOCIATES       Common    640938106    1,514,810    58,600  SH       Sole           None   Sole
+NOKIA CORP -SPON ADR     Sponsored
+                         ADR       654902204    4,003,296   163,200  SH       Sole           None   Sole
+OPLINK COMMUNICATION
+  INC                    Common    68375Q106      129,877    68,900  SH       Sole           None   Sole
+NASDAQ 100 SHARES        Unit
+                         Series I  631100104    5,322,888   136,800  SH       Sole           None   Sole
+SBC COMMUNICATIONS INC   Common    78387G103    3,967,921   101,300  SH       Sole           None   Sole
+SIRIUS SATELLITE
+  RADIO INC              Common    82966U103   1,744,500    150,000  SH       Sole           None   Sole
+S & P 500 DEPOSITARY
+  RECEIPTS               Unit
+                         Series I  78462F103   3,177,540     27,800  SH       Sole           None   Sole
+SUN MICROSYSTEMS INC     Common    866810104   1,993,830    162,100  SH       Sole           None   Sole
+TECH DATA CORP.          Common    878237106   4,154,880     96,000  SH       Sole           None   Sole
+TAIWAN SEMICONDUCTOR
+  -SP ADR                Sponsored
+                         ADR       874039100   3,202,205    186,500  SH       Sole           None   Sole
+TEXAS INSTRUMENTS
+  INC COM                Common    882508104   1,584,800     56,600  SH       Sole           None   Sole
+WEBEX COMMUNICATIONS
+  INC                    Common    94767L109   1,366,750     55,000  SH       Sole           None   Sole
+WIPRO LIMITED
+  (WITCO CORP)           Sponsored
+                         ADR I SH  977385103     622,200     17,000  SH       Sole           None   Sole
+XILINX INC.              Common    983919101     398,310     10,200  SH       Sole           None   Sole
+                                   Total:   $106,270,933
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                5
+03559001.AA0
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

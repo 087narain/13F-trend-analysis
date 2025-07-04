@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0000919574-11-004823.txt : 20110815
+<SEC-HEADER>0000919574-11-004823.hdr.sgml : 20110815
+<ACCEPTANCE-DATETIME>20110815141507
+ACCESSION NUMBER:		0000919574-11-004823
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110630
+FILED AS OF DATE:		20110815
+DATE AS OF CHANGE:		20110815
+EFFECTIVENESS DATE:		20110815
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TIGER GLOBAL MANAGEMENT LLC
+		CENTRAL INDEX KEY:			0001167483
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-10100
+		FILM NUMBER:		111035162
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+		BUSINESS PHONE:		2129848847
+
+	MAIL ADDRESS:	
+		STREET 1:		101 PARK AVENUE
+		STREET 2:		48TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10178
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TIGER TECHNOLOGY MANAGEMENT LLC
+		DATE OF NAME CHANGE:	20020214
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d1220081_13f-hr.txt
+<TEXT>
+                                     13F-HR
+                            Form 13F Holdings Report
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                              FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: JUNE 30, 2011
+
+Check here if Amendment           [ ]; Amendment Number:
+This amendment (Check only one.): [ ] is a restatement.
+                                  [ ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:       Tiger Global Management, L.L.C.
+Address:    101 Park Avenue, 48th Floor
+            New York, NY 10178
+
+13 File Number: 28-10100
+
+The institutional investment manager filing this report and the
+person by whom it is signed hereby represent that the person
+signing the report is authorized to submit it, that all
+information contained herein is true, correct, and complete, and
+and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of
+this form
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:       Charles P. Coleman III
+Title:      Managing Member
+Phone:      212-984-2500
+
+Signature, Place and Date of Signing:
+
+/s/ Charles P. Coleman III        New York, New York         AUGUST 15, 2011
+--------------------------     -----------------------    ----------------------
+     [Signature]                   [City, State]                 [Date]
+<PAGE>
+
+Report Type (Check only one.):
+
+[X]   13F HOLDINGS REPORT.
+
+[_]   13F NOTICE.
+
+[_]   13F COMBINATION REPORT.
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934
+
+<PAGE>
+
+                             FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers:            0
+
+Form 13F Information Table Entry Total:      40
+
+Form 13F Information Table Value Total: 6132034
+<PAGE>
+
+<TABLE>
+                                                     FORM 13F INFORMATION TABLE
+                                                           June 30, 2011
+<CAPTION>
+COLUMN 1                       COLUMN  2        COLUMN 3   COLUMN 4       COLUMN 5       COLUMN 6    COLUMN 7      COLUMN 8
+
+                                                           VALUE     SHRS OR  SH/ PUT/   INVESTMENT  OTHER     VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP      (x1000)   PRN AMT  PRN CALL   DISCRETION  MNGRS    SOLE      SHARED NONE
+--------------                 --------------   -----      -------   -------  --- ----   ----------  -----    ----      ------ ----
+<S>                            <C>              <C>        <C>       <C>      <C> <C>    <C>         <C>      <C>        <C>   <C>
+APPLE INC                      COM              037833100   223221     665000     CALL   SOLE        NONE       665000
+APPLE INC                      COM              037833100   502263    1496300 SH         SOLE        NONE      1496300
+ALASKA COMMUNICATIONS SYS GR   COM              01167P101     8870    1000000 SH         SOLE        NONE      1000000
+AMAZON COM INC                 COM              023135106   266880    1305100 SH         SOLE        NONE      1305100
+ARCOS DORADOS HOLDINGS INC     SHS CLASS -A-    G0457F107     9074     430235 SH         SOLE        NONE       430235
+BAIDU INC                      SPON ADR REP A   056752108   140130    1000000 SH         SOLE        NONE      1000000
+BITAUTO HLDGS LTD              SPONSORED ADS    091727107    23562    3020745 SH         SOLE        NONE      3020745
+CABLEVISION SYS CORP           CL A NY CABLVS   12686C109   148751    5871344 SH         SOLE        NONE      5871344
+COCA COLA ENTERPRISES INC NE   COM              19122T109    55617    1906000 SH         SOLE        NONE      1906000
+COMPANIA CERVECERIAS UNIDAS    SPONSORED ADR    204429104    28772     489396 SH         SOLE        NONE       489396
+DIRECTV                        COM CL A         25490A101   103622    2039000 SH         SOLE        NONE      2039000
+DISCOVERY COMMUNICATNS NEW     COM SER C        25470F302   102573    2806367 SH         SOLE        NONE      2806367
+GENPACT LIMITED                SHS              G3922B107    72387    4198790 SH         SOLE        NONE      4198790
+GOOGLE INC                     CL A             38259P508    44561      88000 SH         SOLE        NONE        88000
+HHGREGG INC                    COM              42833L108     8559     638700 SH         SOLE        NONE       638700
+IAC INTERACTIVECORP            COM PAR $.001    44919P508    36147     947000 SH         SOLE        NONE       947000
+LIBERTY GLOBAL INC             COM SER A        530555101   316406    7025000 SH         SOLE        NONE      7025000
+LIBERTY GLOBAL INC             COM SER C        530555309   131774    3086048 SH         SOLE        NONE      3086048
+LIBERTY MEDIA CORP NEW         CAP COM SER A    53071M302    87543    1020911 SH         SOLE        NONE      1020911
+LINKEDIN CORP                  COM CL A         53578A108    27027     300000 SH         SOLE        NONE       300000
+LIVE NATION ENTERTAINMENT IN   COM              538034109   137071   11950393 SH         SOLE        NONE     11950393
+LONGTOP FINL TECHNOLOGIES LT   ADR              54318P108    48971    2586953 SH         SOLE        NONE      2586953
+MASTERCARD INC                 CL A             57636Q104    30134     100000     CALL   SOLE        NONE       100000
+MASTERCARD INC                 CL A             57636Q104   180804     600000 SH         SOLE        NONE       600000
+MAKEMYTRIP LIMITED MAURITIUS   SHS              V5633W109   151404    6179760 SH         SOLE        NONE      6179760
+MCCLATCHY CO                   CL A             579489105     5620    2000000 SH         SOLE        NONE      2000000
+NETFLIX INC                    COM              64110L106   270571    1030000 SH         SOLE        NONE      1030000
+POWER ONE INC NEW              COM              73930R102    10530    1300000 SH         SOLE        NONE      1300000
+PRICELINE COM INC              COM  NEW         741503403   165166     322634 SH         SOLE        NONE       322634
+RENAISSANCERE HOLDINGS LTD     COM              G7496G103    87088    1245000 SH         SOLE        NONE      1245000
+RUBICON TECHNOLOGY INC         COM              78112T107    12645     750000 SH         SOLE        NONE       750000
+SEARS HLDGS CORP               COM              812350106    35720     500000 SH         SOLE        NONE       500000
+SKY-MOBI LTD                   SPONSORED ADS    83084G109      548      75000 SH         SOLE        NONE        75000
+TAL ED GROUP                   ADS REPSTG COM   874080104     8680     800000 SH         SOLE        NONE       800000
+TRANSDIGM GROUP INC            COM              893641100   102984    1129329 SH         SOLE        NONE      1129329
+VIACOM INC NEW                 CL B             92553P201   362694    7111642 SH         SOLE        NONE      7111642
+VISA INC                       COM CL A         92826C839   159817    1896707 SH         SOLE        NONE      1896707
+XEROX CORP                     COM              984121103    54028    5190000 SH         SOLE        NONE      5190000
+YANDEX N V                     SHS CLASS A      N97284108  1919602   54058062 SH         SOLE        NONE     54058062
+YOUKU COM INC                  SPONSORED ADR    98742U100    50218    1461937 SH         SOLE        NONE      1461937
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
