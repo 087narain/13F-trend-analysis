@@ -2,9 +2,7 @@ streamlit
 pandas
 matplotlib
 sec-edgar-downloader
-beautifulsoup4
 requests
 lxml
-yfinance
 plotly
 seaborn
