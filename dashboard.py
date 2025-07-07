@@ -1,6 +1,11 @@
 import streamlit as st
-from processing import load_filings, compute_turnover
+from processing import compute_turnover, extract_info_table_xml, parse_info_table_xml
 
+folder_path = "./sec-edgar-filings/0001167483/13F-HR/"
+filings = []
+
+
+turnover_df = compute_turnover(filings)
 
 st.title("Fund Turnover Dashboard")
 

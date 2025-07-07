@@ -68,6 +68,40 @@ def extract_date(accession):
     else:
         return accession
 
+def load_filings():
+    folder_path = "./sec-edgar-filings/0001167483/13F-HR/"
+    holdings = []
+    filings = []
+
+    for folder in os.listdir(folder_path):
+        if not filter_2016(folder):
+            continue
+
+        access_folder_path = os.path.join(folder_path, folder)
+
+        for file in os.listdir(access_folder_path):
+            if file.endswith(".txt"):
+                file_path = os.path.join(access_folder_path, file)
+                print(f"Processing: {file_path}")
+                
+                xml_str = extract_info_table_xml(file_path)
+                if xml_str:
+                    df = parse_info_table_xml(xml_str)
+                    df["source_file"] = file
+                    df["accession"] = folder
+
+                    date_match = re.search(r'(\d{4}-\d{2}-\d{2})', folder)  
+                    if not date_match:
+                        date_match = re.search(r'(\d{4}-\d{2}-\d{2})', file)  
+                    date = date_match.group(1) if date_match else "Unknown"
+
+                    filings.append({
+                        "date": date,
+                        "df": df
+                    })
+                    holdings.append(df)
+
+    return filings
 
 def clean_and_compute_allocation(df):
     cols_for_numeric = ['value', 'sshPrnamt', 'Sole', 'Shared', 'None']
