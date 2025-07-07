@@ -1,17 +1,9 @@
 from sec_edgar_downloader import Downloader
-from bs4 import BeautifulSoup
-from datetime import datetime
-
 
 import os
 import re
-import requests
-import unicodedata
 import pandas as pd
-import csv
 import xml.etree.ElementTree as ET
-import yfinance as yf
-import streamlit as st
 
 def extract_info_table_xml(txt_file_path):
     """
