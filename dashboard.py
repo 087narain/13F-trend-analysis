@@ -1,8 +1,9 @@
 import streamlit as st
-from processing import compute_turnover, extract_info_table_xml, parse_info_table_xml
+import matplotlib.pyplot as plt
+from processing import compute_turnover, extract_info_table_xml, parse_info_table_xml, load_filings
 
 folder_path = "./sec-edgar-filings/0001167483/13F-HR/"
-filings = []
+filings = load_filings()
 
 
 turnover_df = compute_turnover(filings)
