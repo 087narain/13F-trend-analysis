@@ -68,17 +68,21 @@ def extract_date(accession):
     else:
         return accession
 
-## Converting some of the columns to numeric datatypes.
-cols_for_numeric = ['value', 'sshPrnamt', 'Sole', 'Shared', 'None']
-for col in cols_for_numeric:
-    df[col] = pd.to_numeric(df[col], errors='coerce')
 
-df['%_allocation'] = 100 * (df['value'] / df['value'].sum())
-
-df = df.dropna(subset=['value'])
-total_value = df['value'].sum()
-
-df['allocation_percent'] = (df['value'] / total_value) * 100    
+def clean_and_compute_allocation(df):
+    cols_for_numeric = ['value', 'sshPrnamt', 'Sole', 'Shared', 'None']
+    
+    for col in cols_for_numeric:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors='coerce')
+    
+    df = df.dropna(subset=['value'])
+    
+    total_value = df['value'].sum()
+    
+    df['%_allocation'] = 100 * (df['value'] / total_value)
+    
+    return df 
 
 ## Function to track how the holdings in filings change
 def holdings_compare(df_1, df_2):
@@ -90,38 +94,38 @@ def holdings_compare(df_1, df_2):
     kept = prev_set & curr_set
 
     return {
-        'new_buys':len(new_buys),
-        'exits':len(full_exits),
-        'kept':len(kept),
-        'total_prev':len(prev_set),
-        'total_curr':len(curr_set),
-        'turnover_pct':(len(new_buys | full_exits) / ((len(prev_set) + len(curr_set))/2)) * 100
+        'new_buys': len(new_buys),
+        'exits': len(full_exits),
+        'kept': len(kept),
+        'total_prev': len(prev_set),
+        'total_curr': len(curr_set),
+        'turnover_pct': (len(new_buys | full_exits) / ((len(prev_set) + len(curr_set)) / 2)) * 100
     }
 
+def compute_turnover(filings):
+    # Fix year extraction to first part of date string (year)
+    for f in filings:
+        f['year'] = int(f['date'].split('-')[0])
 
-## Dictionary analysing the turnover for each filing
-for f in filings:
-    f['year'] = int(f['date'].split('-')[1])  
+    turnover_results = []
+    year_to_filing = {f['year']: f for f in filings}
+    sorted_years = sorted(year_to_filing.keys())
 
-turnover_results = []
-year_to_filing = {f['year']: f for f in filings}
-sorted_years = sorted(year_to_filing.keys())
+    for i in range(1, len(sorted_years)):
+        prev_year = sorted_years[i-1]
+        curr_year = sorted_years[i]
 
-## Isolating only consecutive years
-for i in range(1, len(sorted_years)):
-    prev_year = sorted_years[i-1]
-    curr_year = sorted_years[i]
+        if curr_year == prev_year + 1:
+            prev = year_to_filing[prev_year]
+            curr = year_to_filing[curr_year]
 
-    if curr_year == prev_year + 1:
-        prev = year_to_filing[prev_year]
-        curr = year_to_filing[curr_year]
+            comparison = holdings_compare(prev['df'], curr['df'])
+            comparison['period'] = f"{prev['date']} -> {curr['date']}"
+            comparison['from_year'] = prev_year
+            comparison['to_year'] = curr_year
+        
+            turnover_results.append(comparison)
 
-        comparison = holdings_compare(prev['df'], curr['df'])
-        comparison['period'] = f"{prev['date']} -> {curr['date']}"
-        comparison['from_year'] = prev_year
-        comparison['to_year'] = curr_year
-    
-        turnover_results.append(comparison)
+    turnover_df = pd.DataFrame(turnover_results)
+    return turnover_df
 
-## Adding to dataframe 
-turnover_df = pd.DataFrame(turnover_results)
