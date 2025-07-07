@@ -1,16 +1,28 @@
 import streamlit as st
 import matplotlib.pyplot as plt
-from processing import compute_turnover, extract_info_table_xml, parse_info_table_xml, load_filings
+from processing import os, compute_turnover, extract_info_table_xml, parse_info_table_xml, load_filings
 
 folder_path = "./sec-edgar-filings/0001167483/13F-HR/"
-filings = load_filings()
 
+print("Current working directory:", os.getcwd())
+print("Exists?", os.path.exists(folder_path))
+print("Contents:", os.listdir(folder_path))
+
+filings = load_filings()
+if not filings:
+    st.error("No filings loaded — check your folder path or file structure.")
+    st.stop()
 
 turnover_df = compute_turnover(filings)
 
+if turnover_df.empty:
+    st.error("Turnover DataFrame is empty — likely due to date parsing issues.")
+    st.stop()
 st.title("Fund Turnover Dashboard")
 
 years = sorted(turnover_df['from_year'].unique())
+print("Turnover DataFrame columns:", turnover_df.columns.tolist())
+print("Turnover DataFrame preview:\n", turnover_df.head())
 start_year, end_year = st.slider(
     'Select Year Range',
     min_value=min(years),

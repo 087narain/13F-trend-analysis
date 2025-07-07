@@ -40,7 +40,7 @@ def parse_info_table_xml(xml_string):
     for info in root.findall("infoTable"):
         row = {}
         for child in info:
-            if list(child): 
+            if list(child):  # tag has nested children
                 for subchild in child:
                     tag = subchild.tag.strip()
                     text = subchild.text.strip() if subchild.text else ''
@@ -76,6 +76,7 @@ def load_filings():
     for folder in os.listdir(folder_path):
         if not filter_2016(folder):
             continue
+        print("Checking folder:", folder)
 
         access_folder_path = os.path.join(folder_path, folder)
 
@@ -90,10 +91,15 @@ def load_filings():
                     df["source_file"] = file
                     df["accession"] = folder
 
-                    date_match = re.search(r'(\d{4}-\d{2}-\d{2})', folder)  
-                    if not date_match:
-                        date_match = re.search(r'(\d{4}-\d{2}-\d{2})', file)  
-                    date = date_match.group(1) if date_match else "Unknown"
+                    year_match = re.search(r'0000919574-(\d{2})-', folder)
+                    if year_match:
+                        year = 2000 + int(year_match.group(1))
+                        date = f"{year}-01-01"  # use dummy month/day for now
+                    else:
+                        date = "Unknown"
+
+
+                    print("Extracted date:", date)
 
                     filings.append({
                         "date": date,
@@ -137,9 +143,15 @@ def holdings_compare(df_1, df_2):
     }
 
 def compute_turnover(filings):
-    # Fix year extraction to first part of date string (year)
+    print("Computing turnover...")
     for f in filings:
-        f['year'] = int(f['date'].split('-')[0])
+        print(f"Raw date: {f['date']}")
+        if f['date'] != 'Unknown':
+            f['year'] = int(f['date'].split('-')[0])
+        else:
+            print("Skipping: Unknown date")
+
+    print("Years in data:", [f['year'] for f in filings if 'year' in f])
 
     turnover_results = []
     year_to_filing = {f['year']: f for f in filings}
@@ -161,5 +173,7 @@ def compute_turnover(filings):
             turnover_results.append(comparison)
 
     turnover_df = pd.DataFrame(turnover_results)
+    print("Turnover DataFrame created with columns:", turnover_df.columns)
+    print(turnover_df.head())
     return turnover_df
 
