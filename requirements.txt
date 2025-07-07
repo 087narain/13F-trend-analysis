@@ -7,3 +7,4 @@ requests
 lxml
 yfinance
 plotly
+seaborn
