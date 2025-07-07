@@ -1,10 +1,10 @@
 # 13F-trend-analysis
 Data scraper to visualise 13F holding data, analysing trends in turnover with interactive features.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/13F-trend-analysis)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/13F-trend-analysis)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/13F-trend-analysis?style=social)
-![Issues](https://img.shields.io/github/issues/yourusername/13F-trend-analysis)
+![GitHub last commit](https://img.shields.io/github/last-commit/087narain/13F-trend-analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/087narain/13F-trend-analysis)
+![GitHub stars](https://img.shields.io/github/stars/087narain/13F-trend-analysis?style=social)
+![Issues](https://img.shields.io/github/issues/087narain/13F-trend-analysis)
 
 ![EDGAR](https://img.shields.io/badge/Data%20Source-SEC%20EDGAR-blue)
 ![Python Version](https://img.shields.io/badge/Python-3.9+-blue.svg)
